@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app203.us.archive.org';v.server_ms=2453;archive_analytics.send_pageview({});});
+  </script>
+  <script charset="utf-8" src="/_static/js/bundle-playback.js?v=KTqwAcYd" type="text/javascript">
+  </script>
+  <script charset="utf-8" src="/_static/js/wombat.js?v=UHAOicsW" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   __wm.init("http://web.archive.org/web");
+  __wm.wombat("https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne","20210226093054","http://web.archive.org/","web","/_static/",
+	      "1614331854");
+  </script>
+  <link href="/_static/css/banner-styles.css?v=fantwOh2" rel="stylesheet" type="text/css"/>
+  <link href="/_static/css/iconochive.css?v=qtvMKcIJ" rel="stylesheet" type="text/css"/>
+  <!-- End Wayback Rewrite JS Include -->
+  <script>
+   window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"a95c590dfd","applicationID":"105151201","transactionName":"cQtaQkpZVQoHExhXW1EMUVtBGUkHBQREGURaC0M=","queueTime":0,"applicationTime":435,"agent":""}
+  </script>
+  <script>
+   (window.NREUM||(NREUM={})).loader_config={licenseKey:"a95c590dfd",applicationID:"105151201"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(6),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(y,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1198.min.js"},h=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:w,features:{},xhrWrappable:h,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var x=0},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(7),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);
+  </script>
+  <title>
+   Apple weiß, wo ich wohne - brand eins online
+  </title>
+  <script type="text/javascript">
+   window.Brandeins = window.Brandeins || {};
+    window.Brandeins.default_country_id = 57;
+  </script>
+  <!-- Tracking Pixel -->
+  <!-- Fonts.com -->
+  <script type="text/javascript">
+   var MTUserId='13b0597d-bc2a-4de3-9ed6-a769a9931920';
+  var MTFontIds = new Array();
+
+  MTFontIds.push("5664085"); // Neue Helvetica® W05 45 Light
+  MTFontIds.push("5664093"); // Neue Helvetica® W05 55 Roman
+  (function() {
+    var mtTracking = document.createElement('script');
+    mtTracking.type='text/javascript';
+    mtTracking.async='true';
+    mtTracking.src='/mtiFontTrackingCode.js';
+
+    (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(mtTracking);
+  })();
+  </script>
+  <!-- End Fonts.com -->
+  <!-- Google Analytics -->
+  <script type="text/javascript">
+   function loadGoogleAnalytics() {
+    var gaProperty = 'UA-31124795-1';
+    var gaDisableStr = 'ga-disable-' + gaProperty;
+
+    if (document.cookie.indexOf(gaDisableStr + '=true') > -1) {
+      window[gaDisableStr] = true;
+    }
+
+    function gaOptout() {
+      document.cookie = gaDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+      window[gaDisableStr] = true;
+    }
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//web.archive.org/web/20210226093054/https://www.google-analytics.com/analytics.js','ga');
+    ga('create', gaProperty, 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('require', 'GTM-PXZ3W43'); // Google Optimize
+    
+    ga('send', 'pageview');
+
+    window.addEventListener("load", function(){
+      var blocked = document.getElementById('5670721930') ? "No" : "Yes";
+
+      if (typeof ga !=='undefined') {
+        ga('send','event','Blocking Ads',blocked,{'nonInteraction':1});
+      } else if (typeof _gaq !=='undefined') {
+        _gaq.push(['_trackEvent','Blocking Ads',blocked,undefined,undefined,true]);
+      }
+    })
+  }
+  </script>
+  <!-- End Google Analytics -->
+  <!-- Google Tag Manager -->
+  <script type="text/javascript">
+   function loadGoogleTagmanager() {
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'http://web.archive.org/web/20210226093054/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-582CR6G');
+    }
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Vimeo -->
+  <script type="text/javascript">
+   function loadVimeo() {
+      var s= document.createElement("script");
+      s.type = "text/javascript";
+      s.async = true;
+      s.defer = true;
+      s.src = "http://web.archive.org/web/20210226093054/https://player.vimeo.com/api/player.js";
+      document.getElementsByTagName("head")[0].appendChild(s);
+    }
+  </script>
+  <!-- End Vimeo -->
+  <!-- Google ReCaptcha -->
+  <script type="text/javascript">
+   function loadGoogleRecaptcha() {
+      var s= document.createElement("script");
+      s.type = "text/javascript";
+      s.async = true;
+      s.defer = true;
+      s.src = "http://web.archive.org/web/20210226093054/https://www.google.com/recaptcha/api.js";
+      document.getElementsByTagName("head")[0].appendChild(s);
+    }
+  </script>
+  <!-- End Google ReCaptcha -->
+  <!-- Facebook -->
+  <script type="text/javascript">
+   function loadFacebookPixel() {
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','http://web.archive.org/web/20210226093054/https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '221391244921053');
+    fbq('track', "PageView");
+    
+  }
+  </script>
+  <!-- End Facebook -->
+  <!-- LinkedIn -->
+  <script type="text/javascript">
+   _linkedin_partner_id = "970172";
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+  function loadLinkedInPixel() {
+    (function(){
+      var s = document.getElementsByTagName("script")[0];
+      var b = document.createElement("script");
+      b.type = "text/javascript";b.async = true;
+      b.src = "http://web.archive.org/web/20210226093054/https://snap.licdn.com/li.lms-analytics/insight.min.js";
+      s.parentNode.insertBefore(b, s);
+    })();
+  }
+  </script>
+  <!-- End LinkedIn -->
+  <!-- SZM VERSION="2.0" -->
+  <script src="http://web.archive.org/web/20210226093054js_/https://script.ioam.de/iam.js">
+  </script>
+  <!-- Sourcepoint CMP -->
+  <script type="text/javascript">
+   !function () { var e = function () { var e, t = "__tcfapiLocator", a = [], n = window; for (; n;) { try { if (n.frames[t]) { e = n; break } } catch (e) { } if (n === window.top) break; n = n.parent } e || (!function e() { var a = n.document, r = !!n.frames[t]; if (!r) if (a.body) { var i = a.createElement("iframe"); i.style.cssText = "display:none", i.name = t, a.body.appendChild(i) } else setTimeout(e, 5); return !r }(), n.__tcfapi = function () { for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++)n[r] = arguments[r]; if (!n.length) return a; if ("setGdprApplies" === n[0]) n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)); else if ("ping" === n[0]) { var i = { gdprApplies: e, cmpLoaded: !1, cmpStatus: "stub" }; "function" == typeof n[2] && n[2](i) } else a.push(n) }, n.addEventListener("message", (function (e) { var t = "string" == typeof e.data, a = {}; try { a = t ? JSON.parse(e.data) : e.data } catch (e) { } var n = a.__tcfapiCall; n && window.__tcfapi(n.command, n.version, (function (a, r) { var i = { __tcfapiReturn: { returnValue: a, success: r, callId: n.callId } }; t && (i = JSON.stringify(i)), e.source.postMessage(i, "*") }), n.parameter) }), !1)) }; "undefined" != typeof module ? module.exports = e : e() }();
+  </script>
+  <script>
+   window._sp_ = {
+    config: {
+      accountId: 692,
+      baseEndpoint: 'http://web.archive.org/web/20210226093054/https://cdn.privacy-mgmt.com',
+    }
+  }
+  </script>
+  <script src="http://web.archive.org/web/20210226093054js_/https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js">
+  </script>
+  <!-- EventListener to call tracker from CMP -->
+  <script type="text/javascript">
+   var customVendors = [
+    ["Google Analytics", loadGoogleAnalytics],
+    ["Google Tag Manager", loadGoogleTagmanager],
+    ["Facebook, Inc.", loadFacebookPixel],
+    ["LinkedIn Corporation", loadLinkedInPixel],
+    ["Vimeo", loadVimeo] ,
+    ["Google reCAPTCHA", loadGoogleRecaptcha],
+  ];
+  var loadedVendors = [];
+
+  function consentGivenFor(vendor_name, consentedVendors) {
+    for (i = 0; i < consentedVendors.length; i++) {
+      if (consentedVendors[i].name === vendor_name) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  function alreadyLoadedVendor(vendor_name) {
+    for (i = 0; i < loadedVendors.length; i++) {
+      if (loadedVendors[i] === vendor_name) {
+        console.info("Already loaded vendor", vendor_name);
+        return true;
+      }
+    }
+    return false;
+  }
+
+  function checkCookieConsents() {
+    __tcfapi('getCustomVendorConsents', 2, function(vendorConsents, success) {
+      if (success && vendorConsents.consentedVendors && vendorConsents.consentedVendors.length > 0) {
+        console.log('checking Cookie Consents', vendorConsents);
+        for (i = 0; i < customVendors.length; i++) {
+          var vendor_name = customVendors[i][0];
+          var vendor_callback = customVendors[i][1];
+          console.log("Checking consent for", vendor_name)
+          if (consentGivenFor(vendor_name, vendorConsents.consentedVendors) && !alreadyLoadedVendor(vendor_name)) {
+            console.log("Calling vendor callback", vendor_callback)
+            vendor_callback();
+            loadedVendors.push(vendor_name);
+            console.log('Gave consent for', vendor_name);
+          }
+        }
+      } else {
+        console.warn('getCustomVendorConsents not successful!', vendorConsents);
+      }
+    });
+  }
+
+  __tcfapi('addEventListener', 2, function(tcData, success) {
+    if (success) {
+      console.log('success', tcData);
+      switch (tcData.eventStatus) {
+        case 'tcloaded':
+          console.log('tcloaded');
+          checkCookieConsents();
+          // remove to not get called more than once
+          console.log('attempt to remove listener');
+          __tcfapi('removeEventListener', 2, function (success) {
+            if (success) {
+              console.log('removed event listener', tcData.listenerId);
+            } else {
+              console.warn('removing listener failed');
+            }
+          }, tcData.listenerId);
+          break;
+        case 'useractioncomplete':
+          console.log('useractioncomplete');
+          checkCookieConsents();
+          break;
+        case 'cmpuishown':
+          console.log('cmpuishown');
+          break;
+        default:
+          console.warn('Unknown event!', tcData.eventStatus);
+          break;
+      }
+    } else {
+      console.warn('Not successful!', tcData);
+    }
+  });
+  </script>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="a51d0baac754294c04d35325c6ec10" name="pocket-site-verification">
+   <meta content="2021-02-25 12:23:34 +0100" name="created"/>
+   <meta content="index, follow" name="robots"/>
+   <meta content="Die „Leichte Sprache“ * richtet sich vorwiegend an Menschen mit Lernschwierigkeiten oder Behinderungen – vielleicht steckt darin aber ein noch größeres..." lang="de" name="description"/>
+   <link href="http://web.archive.org/web/20210226093054/https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne" rel="canonical"/>
+   <meta content="Apple weiß, wo ich wohne - brand eins online" property="og:title"/>
+   <meta content="Die „Leichte Sprache“ * richtet sich vorwiegend an Menschen mit Lernschwierigkeiten oder Behinderungen – vielleicht steckt darin aber ein noch größeres Potenzial? Hier die Übersetzung ausgewählter Passagen aus Apples Datenschutzrichtlinie." property="og:description"/>
+   <meta content="http://web.archive.org/web/20210226093054im_/https://www.brandeins.de/assets/og_fallback-ae471cc126cae17e479cffc2205576201f3fd69b37ff98082091079b8b8ae3ed.png" property="og:image"/>
+   <meta content="http://web.archive.org/web/20210226093054/https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne" property="og:url"/>
+   <meta content="summary_large_image" property="twitter:card"/>
+   <meta content="@brandeins" property="twitter:site"/>
+   <meta content="Apple weiß, wo ich wohne - brand eins online" property="twitter:title"/>
+   <meta content="Die „Leichte Sprache“ * richtet sich vorwiegend an Menschen mit Lernschwierigkeiten oder Behinderungen – vielleicht steckt darin aber ein noch größeres Potenzial? Hier die Übersetzung ausgewählter Passagen aus Apples Datenschutzrichtlinie." property="twitter:description"/>
+   <meta content="https://www.brandeins.de/assets/twitter_fallback-07b4b15ab819afbbb7ded7b53a2fdee1be46a106dc943ddcfe237de65fde1433.png" property="twitter:image"/>
+   <meta content="https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne" property="twitter:url"/>
+   <script src="/web/20210226093054js_/https://www.brandeins.de/assets/modernizr.custom-c7b54292d7b62f4f9ef66aabcd643c0a6a4a95a5330199523846314825e86bd2.js">
+   </script>
+   <script src="/web/20210226093054js_/https://www.brandeins.de/packs/js/webcomponents-8192cd74ffb2eb704adc.js">
+   </script>
+   <link href="/web/20210226093054cs_/https://www.brandeins.de/packs/css/webcomponents-894d1544.css" media="screen" rel="stylesheet"/>
+   <script src="/web/20210226093054js_/https://www.brandeins.de/assets/application-21331342129a9e5c6345de1fba0da7b9cae69468cec19123994ba16377bcd4df.js">
+   </script>
+   <!-- IQ Banner Ad Controller -->
+   <script type="text/javascript">
+    var gzipEnabled = false;
+   </script>
+   <script src="http://web.archive.org/web/20210226093054js_/https://s3-eu-central-1.amazonaws.com/prod.iqdcontroller.iqdigital/iqd_gzip_test.js.gz" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    function IQSLoader(url) {
+    var script = document.createElement("script")
+    script.type = "text/javascript";
+    script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  }
+  var base_url = "http://web.archive.org/web/20210226093054/https://s3.eu-central-1.amazonaws.com/prod.iqdcontroller.iqdigital/";
+  var mobile = window.Brandeins.isMobile ? "_mob" : "";
+  var iqd_mode = (function() {
+    var dm = window.location.href.toLowerCase();
+    return (dm.indexOf('iqdeployment=') > 1) ? dm.split('iqdeployment=')[1].split('&')[0] : 'live';
+  })();
+  var suffix = gzipEnabled ? ".js.gz" : ".js";
+
+  IQSLoader(base_url + "cdn_brandeins" + mobile + "_async" + "/" + iqd_mode + "/iqadcontroller" + suffix);
+   </script>
+   <script>
+    window.AdController = {
+    i: null, // page info
+    q: [], // render queue
+    f: false, // is finalized
+    s: false, // is staged
+    n: false, // is initialized
+    r: null, // ready function
+    c: [], // command queue
+    setPageInfo: function(i) {
+      window.AdController.i = i;
+    },
+    stage: function() {
+      window.AdController.s = true;
+    },
+    initialize: function() {
+      window.AdController.n = true;
+    },
+    render: function(n, c) {
+      window.AdController.q.push([n, c]);
+    },
+    finalize: function() {
+      window.AdController.f = true;
+    },
+    ready: function(callback) {
+      window.AdController.r = callback;
+    },
+    startLoadCycle: function() {
+      window.AdController.c.push(['startLoadCycle']);
+    },
+    reload: function(p, t) {
+      window.AdController.c.push(['reload', p, t]);
+    },
+    reinitialize: function(i) {
+      window.AdController.c.push(['reinitialize', i]);
+    }
+  };
+   </script>
+   <script src="/web/20210226093054js_/https://www.brandeins.de/assets/ads-11dc60ca99e55a379de0136d1cc9bedbb8c6e700f582d2d65a08ea04816f0c9e.js">
+   </script>
+   <link href="/web/20210226093054cs_/https://www.brandeins.de/assets/brandeins_de-2fc08d8bb277cc618ef3096665838103ee58cf5c0a258be43f3d4c83605919a7.css" media="all" rel="stylesheet"/>
+   <meta content="authenticity_token" name="csrf-param"/>
+   <meta content="ArQ423Su+o/G1ie5z6+ks5LYe3htWJZZmkJpbIHR0aAA6jzLV/VnbkDgr5kr2o9uMELAZrVyEeOIAP0A4R6rgA==" name="csrf-token"/>
+   <!-- Fav-Icons -->
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+   <link href="/web/20210226093054im_/https://www.brandeins.de/images/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+   <link href="/web/20210226093054/https://www.brandeins.de/images/manifest.json" rel="manifest"/>
+   <meta content="#ffffff" name="msapplication-TileColor"/>
+   <meta content="/images/mstile-144x144.png" name="msapplication-TileImage"/>
+   <meta content="#ffffff" name="theme-color"/>
+  </meta>
+ </head>
+ <body class="kiosk_article_page" id="default">
+  <!-- SZM VERSION="2.0" -->
+  <script type="text/javascript">
+   var iam_data = {
+    "cp":"BRA_DE_magazine", // code
+    "co":"kommentar" // comment
+    };
+
+  if (window.Brandeins.isMobile) {
+    $.extend(iam_data, {
+      "st":"mobbrand", // site/domain
+      "sv":"mo" // Es wird eine Befragungseinladung ausgeliefert
+    });
+  } else {
+    $.extend(iam_data, {
+      "st":"brandein", // site/domain
+      "sv":"in" // Es wird eine Befragungseinladung ausgeliefert
+    });
+  }
+  iom.c(iam_data);
+  </script>
+  <!--/SZM -->
+  <div id="app-header">
+   <b1-top-bar :cart-items="0" :logged-in="false" :meta-data='[{"label":"Abo","href":"https://www.brandeins.de/abo"},{"label":"Podcast","href":"https://www.brandeins.de/podcast"},{"label":"Newsletter","href":"https://www.brandeins.de/newsletter"},{"label":"Mediadaten","href":"https://media.brandeins.de/"},{"label":"Corporate Publishing","href":"https://www.brandeins.de/corporate-publishing"},{"label":"Headzoom","href":"https://www.brandeins.de/headzoom"}]' :nav-data='[{"label":"Magazine","href":"https://www.brandeins.de/magazine","items":[]},{"label":"Veranstaltungen","href":"https://www.brandeins.de/veranstaltungen","items":[]},{"label":"Themen","href":"https://www.brandeins.de/themen/","items":[]},{"label":"Netzwerk","href":"https://www.brandeins.de/netzwerk","items":[]},{"label":"Über uns","href":"https://www.brandeins.de/ueber-brand-eins","items":[]},{"label":"Shop","href":"https://kiosk.brandeins.de/","items":[{"label":"Abonnement","href":"https://kiosk.brandeins.de/t/abonnements"},{"label":"Einzelausgaben","href":"https://kiosk.brandeins.de/t/einzelausgaben"},{"label":"Pakete \u0026 Angebote","href":"https://kiosk.brandeins.de/t/pakete-und-angebote"},{"label":"Tickets","href":"https://kiosk.brandeins.de/t/tickets"},{"label":"Kleinanzeigen","href":"https://kiosk.brandeins.de/t/kleinanzeigen"},{"label":"Extras","href":"https://kiosk.brandeins.de/t/extras"}]}]' :show-meta="true" :show-navigation="true" cart-label="Warenkorb" cart-link="https://kiosk.brandeins.de/cart" login-label="Anmelden" login-link="https://www.brandeins.de/users/sign_in" logo-url="https://www.brandeins.de" logout-label="Abmelden" logout-link="https://www.brandeins.de/users/sign_out" search-url="/suche">
+   </b1-top-bar>
+  </div>
+  <div class="site-wrap">
+   <main>
+    <!-- IQ Ad-Controller Initialization -->
+    <script>
+     var personalizedAds = ('; ' + document.cookie).split('; _sp_enable_dfp_personalized_ads=').pop().split(';').shift();
+    var cmsObject = {
+      $handle : "artikel",
+      level2: "magazine",
+      level3: "",
+      level4: "",
+      keywords: "",
+      tma: "",
+      gamnpa: true
+    };
+    if (personalizedAds === 'true') {
+      cmsObject.gamnpa = false
+    }
+    AdController && AdController.setPageInfo(cmsObject);
+    </script>
+    <script>
+     AdController.stage();
+    </script>
+    <script>
+     AdController.initialize();
+    </script>
+    <div class="banner container">
+     <div class="banner__wrapper">
+      <div class="iqadtile" data-ad-id-desktop="iqadtile3" data-ad-id-mobile="iqadtile1">
+      </div>
+     </div>
+    </div>
+    <div class="breadcrumbs-absolute">
+     <div class="wrapper" id="app-breadcrumbs">
+      <b1-bread-crumb :items='[{"label":"Startseite","href":"/index"},{"label":"Magazine","href":"/magazine"},{"label":"Archiv: brand eins","href":"/magazine/brand-eins-wirtschaftsmagazin"},{"label":"2016","href":"/magazine/brand-eins-wirtschaftsmagazin/2016"},{"label":"Vorbilder","href":"/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder"},{"label":"Apple weiß, wo ich wohne","href":"/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne"}]'>
+      </b1-bread-crumb>
+     </div>
+    </div>
+    <div class="article-intro clearfix" id="article_intro_50330">
+     <div class="standard-layout">
+      <div class="page-title__wrapper">
+       <div class="container">
+        <div class="row">
+         <div class="page-title">
+          <div class="page-title__content col-sm-10 col-sm-offset-1 col-md-7">
+           <div class="page-title__content__text">
+            <h1 class="title-headline" style="color: inherit;">
+             Apple weiß, wo ich wohne
+            </h1>
+            <div class="title-text text-big">
+             Die „Leichte Sprache“
+             <link "opens="" -="" 10822#50239="" current="" in="" internal="" internal-link="" link="" window"=""/>
+             * richtet sich vorwiegend an Menschen mit Lernschwierigkeiten oder Behinderungen – vielleicht steckt darin aber ein noch größeres Potenzial? Hier die Übersetzung ausgewählter Passagen aus Apples Datenschutzrichtlinie.
+            </div>
+            <br/>
+            <div class="article-author text-small">
+             Text: Holger Fröhlich
+            </div>
+            <br/>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <br class="mobile-only"/>
+       <br class="mobile-only"/>
+       <section class="mobile-sharebuttons sharing--colored container mobile-only">
+        <div class="row">
+         <div class="col-xs-12">
+          <div class="shariff" data-lang="de" data-services='["facebook","twitter","linkedin","xing","whatsapp"]' data-url="http://web.archive.org/web/20210226093054oe_/https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne">
+          </div>
+         </div>
+        </div>
+       </section>
+       <aside class="page-info-section row">
+        <div class="page-info-section__wrapper col-xs-12 col-sm-10 col-sm-offset-1 col-md-offset-0 col-md-12 clearfix">
+         <div class="row">
+          <div class="thumbnail__wrapper col-xs-4 col-sm-5 col-md-12">
+           <div class="thumb">
+            <a href="http://web.archive.org/web/20210226093054/https://kiosk.brandeins.de/products/brand-eins-09-2016">
+             <img alt="B1 09 16 titel.jpg" src="/web/20210226093054im_/https://www.brandeins.de/pictures/W1siZiIsIjIwMTYvMDgvMTgvOGNhZnAzNGs3Nl9iMV8wOV8xNl9UaXRlbC5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMngxMDIiXV0/b1_09_16_Titel.jpg.jpg?sha=3a989a9226f49969"/>
+            </a>
+           </div>
+          </div>
+          <div class="col-xs-12 desktop-only">
+           <hr/>
+          </div>
+          <div class="text__wrapper col-xs-8 col-sm-7 col-md-12">
+           <a class="btn btn-default product-link-button" href="http://web.archive.org/web/20210226093054/https://kiosk.brandeins.de/products/brand-eins-09-2016">
+            Ausgabe kaufen
+           </a>
+           <br/>
+           <a class="btn-stroke btn" href="/web/20210226093054/https://www.brandeins.de/reader_letters/new?page_id=5624&amp;product_id=458" id="leserbrief">
+            Leserbrief schreiben
+           </a>
+           <br/>
+           <hr class="desktop-only"/>
+           <div class="desktop-only">
+            <div class="shariff" data-lang="de" data-services='["facebook","twitter","linkedin","xing","whatsapp"]' data-url="http://web.archive.org/web/20210226093054oe_/https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </div>
+    </div>
+    <section class="textblock container" id="textblock_50332">
+     <div class="row">
+      <div class="col-sm-10 col-sm-offset-1 col-md-7">
+       <h3>
+        Die Apple-Datenschutzrichtlinie vom 31. Mai 2016
+       </h3>
+       <p>
+        (…) Wenn Sie eine Apple-ID erstellen, einen Konsumentenkredit beantragen, ein Produkt kaufen, ein Softwareupdate laden, sich für einen Kurs in einem Apple Store registrieren, Kontakt mit uns aufnehmen oder an einer Online-Umfrage teilnehmen, können wir eine Vielzahl von Daten erheben, einschließlich Name, Adresse, Telefonnummer, E-Mail-Adresse, Informationen zur bevorzugten Kontaktaufnahme und Kreditkarteninformationen.
+       </p>
+       <h3>
+        <span class="pink">
+         <span style="color: #ff0000;">
+          Die Regeln von der Firma Apple
+         </span>
+        </span>
+       </h3>
+       <p>
+        <span class="pink" style="color: #ff0000;">
+         Die Firma Apple verkauft Sachen.
+         <br/>
+         Ich kann bei Apple zum Beispiel einen Computer kaufen.
+         <br/>
+         Oder Musik über das Internet runterladen.
+         <br/>
+         Dann will Apple sehr viel über mich wissen.
+         <br/>
+         Zum Beispiel, wo ich wohne.
+         <br/>
+         Oder meine Telefonnummer.
+         <br/>
+         Auch wenn ich nur nach dem Preis frage.
+        </span>
+       </p>
+       <p>
+        Wenn Sie Ihre Inhalte mit Familie oder Freunden teilen und dabei Produkte von Apple verwenden, Geschenkgutscheine und Produkte verschicken oder andere dazu einladen, an Diensten oder Foren von Apple teilzunehmen, kann Apple die Daten erheben, welche Sie über diese Personen zur Verfügung stellen, wie Name, Adresse, E-Mail-Adresse und Telefonnummer. (…)
+       </p>
+       <p>
+        <span class="pink" style="color: #ff0000;">
+         Ich kann meinen Freunden Sachen schenken.
+         <br/>
+         Zum Beispiel einen Computer von Apple.
+         <br/>
+         Ich kann ihnen auch Fotos mit meinem Apple-Computer schicken.
+         <br/>
+         Dann will Apple auch viel über meine Freunde wissen.
+         <br/>
+         Zum Beispiel, wo meine Freunde wohnen.
+         <br/>
+         Oder die Telefon·nummer von meinen Freunden.
+        </span>
+       </p>
+       <p>
+        Wir können personenbezogene Daten auch für interne Zwecke nutzen, wie zur Buchprüfung, Datenanalyse und Forschung, um Apples Produkte und Dienste und die Kommunikation mit Kunden zu verbessern. (…)
+       </p>
+       <p>
+        <span class="pink" style="color: #ff0000;">
+         Apple schaut sich diese Informationen genau an.
+         <br/>
+         Apple will aus den Informationen lernen.
+         <br/>
+         Damit ich glücklicher werde.
+         <br/>
+         Und damit Apple mehr Sachen verkauft.
+        </span>
+       </p>
+       <p>
+        Wir erheben Daten wie namentlich Beruf, Sprache, Postleitzahl, Vorwahl, individuelle Geräteidentifizierungsmerkmale, Weiterleitungs-URL sowie Ort und Zeitzone, wo Apple-Produkte verwendet werden, damit wir das Verhalten unserer Kunden besser verstehen und unsere Produkte, Dienste und Werbung verbessern können. (…)
+       </p>
+       <p>
+        <span class="pink" style="color: #ff0000;">
+         Apple sammelt noch mehr Informationen über mich.
+         <br/>
+         Zum Beispiel meinen Beruf.
+         <br/>
+         Oder auf welcher Internetseite ich vorhin war.
+         <br/>
+         Oder in welcher Stadt ich gerade bin.
+         <br/>
+         Damit will Apple mich besser kennenlernen.
+         <br/>
+         Und mir mehr verkaufen.
+        </span>
+       </p>
+       <p>
+        Wir erheben und speichern gegebenenfalls nähere Angaben darüber, wie Sie unsere Dienste nutzen, unter anderem auch Suchanfragen. (…)
+       </p>
+       <p>
+        <span class="pink" style="color: #ff0000;">
+         Apple sammelt aber noch mehr Informationen über mich.
+         <br/>
+         Zum Beispiel, was ich im Internet suche.
+         <br/>
+         Und was ich mit meinen Computer sonst so mache.
+        </span>
+       </p>
+       <p>
+        Gelegentlich kann Apple bestimmte personenbezogene Daten an strategische Partner weitergeben, die mit Apple zusammenarbeiten, um Produkte und Dienste zur Verfügung zu stellen, oder die Apple beim Marketing gegenüber Kunden helfen. (…)
+       </p>
+       <p>
+        <span class="pink" style="color: #ff0000;">
+         Manchmal verrät Apple diese Informationen an andere Firmen.
+         <br/>
+         Damit die anderen Firmen mir Sachen verkaufen können.
+         <br/>
+         Oder damit Apple mir noch mehr verkaufen kann.
+        </span>
+       </p>
+       <p>
+        Um standortbezogene Dienste auf Apple-Produkten anzubieten, können Apple und unsere Partner und Lizenznehmer präzise Standortdaten erheben, nutzen und weitergeben, einschließlich des geografischen Standorts Ihres Apple-Computers oder Geräts in Echtzeit. (…)
+       </p>
+       <p>
+        <span class="pink" style="color: #ff0000;">
+         Manchmal will Apple wissen, in welcher Straße ich gerade bin.
+         <br/>
+         Zum Beispiel, wenn Apple mir den Weg zeigen soll.
+         <br/>
+         Apple weiß dann genau, wo ich bin.
+         <br/>
+         Mit Hausnummer.
+         <br/>
+         Das verrät Apple auch anderen Firmen.
+         <br/>
+         Dann wissen die anderen Firmen auch genau, wo ich bin.
+        </span>
+       </p>
+      </div>
+     </div>
+    </section>
+    <section class="container info-box" id="info_box_50333">
+     <div class="row">
+      <div class="col-sm-10 col-sm-offset-1 col-md-7">
+       <div class="info-box__wrapper">
+        * Mehr zum Thema gibt es unter
+        <link "opens="" -="" external="" external-link-new-window="" http:="" in="" leichtesprache.org="" link="" new="" window"=""/>
+        leichtesprache.org
+        <br>
+        </br>
+       </div>
+      </div>
+     </div>
+    </section>
+    <div class="mobile-only sticky-sharebar sharing--colored">
+     <div class="shariff" data-lang="de" data-services='["facebook","twitter","linkedin","xing","whatsapp"]' data-url="http://web.archive.org/web/20210226093054oe_/https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne">
+     </div>
+    </div>
+    <div class="mobile-only">
+     <aside class="page-info-section row">
+      <div class="page-info-section__wrapper col-xs-12 col-sm-10 col-sm-offset-1 col-md-offset-0 col-md-12 clearfix">
+       <div class="row">
+        <div class="thumbnail__wrapper col-xs-4 col-sm-5 col-md-12">
+         <div class="thumb">
+          <a href="http://web.archive.org/web/20210226093054/https://kiosk.brandeins.de/products/brand-eins-09-2016">
+           <img alt="B1 09 16 titel.jpg" src="/web/20210226093054im_/https://www.brandeins.de/pictures/W1siZiIsIjIwMTYvMDgvMTgvOGNhZnAzNGs3Nl9iMV8wOV8xNl9UaXRlbC5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMngxMDIiXV0/b1_09_16_Titel.jpg.jpg?sha=3a989a9226f49969"/>
+          </a>
+         </div>
+        </div>
+        <div class="col-xs-12 desktop-only">
+         <hr/>
+        </div>
+        <div class="text__wrapper col-xs-8 col-sm-7 col-md-12">
+         <a class="btn btn-default product-link-button" href="http://web.archive.org/web/20210226093054/https://kiosk.brandeins.de/products/brand-eins-09-2016">
+          Ausgabe kaufen
+         </a>
+         <br/>
+         <a class="btn-stroke btn" href="/web/20210226093054/https://www.brandeins.de/reader_letters/new?page_id=5624&amp;product_id=458" id="leserbrief">
+          Leserbrief schreiben
+         </a>
+         <br/>
+         <hr class="desktop-only"/>
+         <div class="desktop-only">
+          <div class="shariff" data-lang="de" data-services='["facebook","twitter","linkedin","xing","whatsapp"]' data-url="http://web.archive.org/web/20210226093054oe_/https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </aside>
+    </div>
+    <div class="banner container">
+     <div class="banner__wrapper">
+      <div class="iqadtile" data-ad-id-desktop="iqadtile16" data-ad-id-mobile="iqadtile8">
+      </div>
+     </div>
+    </div>
+   </main>
+  </div>
+  <div id="app-footer">
+   <b1-footer :footer-data='[{"title":"brand eins","items":[{"label":"Über uns","href":"https://www.brandeins.de/ueber-brand-eins","icon":""},{"label":"Kontaktformular","href":"https://www.brandeins.de/kontakt.html","icon":""},{"label":"Mitarbeiter","href":"https://www.brandeins.de/kontakt/medien-ag.html","icon":""},{"label":"Presse","href":"https://www.brandeins.de/ueber-brand-eins/presse","icon":""},{"label":"Partner","href":"https://www.brandeins.de/ueber-brand-eins/partner","icon":""}]},{"title":"Hilfe","items":[{"label":"Abo","href":"https://www.brandeins.de/hilfe/abonnement.html","icon":""},{"label":"App","href":"https://www.brandeins.de/hilfe/app.html","icon":""},{"label":"Audible","href":"https://www.brandeins.de/hilfe/audio","icon":""},{"label":"Shop","href":"https://www.brandeins.de/hilfe/online-kiosk","icon":""}]},{"title":"Rechtliches","items":[{"label":"Impressum","href":"https://www.brandeins.de/impressum.html","icon":""},{"label":"AGB","href":"https://www.brandeins.de/agb/","icon":""},{"label":"Widerruf","href":"https://kiosk.brandeins.de/widerruf","icon":""},{"label":"Versandkosten","href":"https://kiosk.brandeins.de/lieferung","icon":""},{"label":"Datenschutz","href":"https://www.brandeins.de/datenschutz.html","icon":""},{"label":"Zitieren","href":"https://www.brandeins.de/zitieren-verlinken","icon":""}]},{"title":"Social Media","items":[{"label":"Instagram","href":"https://www.instagram.com/brand_eins/","icon":"instagram"},{"label":"Twitter","href":"https://twitter.com/brandeins","icon":"twitter"},{"label":"Facebook","href":"https://www.facebook.com/brand.eins/","icon":"facebook-f"},{"label":"XING","href":"https://www.xing.com/news/pages/brand-eins-124","icon":"xing"},{"label":"Linkedin","href":"https://www.linkedin.com/company/brand-eins/","icon":"linkedin"}]}]'>
+   </b1-footer>
+  </div>
+  <script src="/web/20210226093054js_/https://www.brandeins.de/assets/shariff.min-9e3b916c1d4dd4b247390e682561700781e1410dfc5e3c00a6b055747133c9c9.js">
+  </script>
+  <script type="text/javascript">
+   window.cookieconsent_options = {"message":"Diese Webseite verwendet u.a. Cookies zur Analyse und Verbesserung der Webseite, zum Ausspielen personalisierter Anzeigen und zum Teilen von Artikeln in sozialen Netzwerken. Unter \u003ca href=\"https://www.brandeins.de/datenschutz.html\"\u003eDatenschutz\u003c/a\u003e erhalten Sie weitere Informationen und Möglichkeiten, diese Cookies auszuschalten.","dismiss":"OK","learnMore":"Mehr zum Datenschutz","link":"http://web.archive.org/web/20210226093054/http://www.brandeins.de/datenschutz/","theme":false};
+  </script>
+  <script type="text/javascript">
+   // signalisiert AC, dass keine weiteren AdCall-Aufrufe auf dieser Seite folgen
+        AdController.finalize();
+  </script>
+ </body>
+</html>
+<!--
+     FILE ARCHIVED ON 09:30:54 Feb 26, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:14:08 Aug 12, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 2282.458
+  exclusion.robots: 0.074
+  exclusion.robots.policy: 0.068
+  cdx.remote: 0.057
+  esindex: 0.01
+  LoadShardBlock: 485.229 (3)
+  PetaboxLoader3.datanode: 192.6 (4)
+  CDXLines.iter: 15.963 (3)
+  load_resource: 164.257
+  PetaboxLoader3.resolve: 120.042
+-->

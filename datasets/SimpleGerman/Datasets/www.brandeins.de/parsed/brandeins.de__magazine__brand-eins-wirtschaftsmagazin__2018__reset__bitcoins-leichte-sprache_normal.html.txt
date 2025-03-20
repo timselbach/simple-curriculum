@@ -1,0 +1,10 @@
+Bitcoin: 
+ein elektronisches Peer-to-Peer-Bezahlsystem
+(…) Eine reine Peer-to-Peer-Version eines elektronischen Zahlungsverfahrens würde es ermöglichen, dass Online-Zahlungen von einer Partei direkt an eine andere gesendet werden, ohne über ein Finanzinstitut zu gehen. 
+Digitale Signaturen bilden einen Teil der Lösung, aber die Hauptvorteile gehen verloren, wenn weiterhin eine vertrauenswürdige dritte Partei notwendig ist, um Double Spending (Mehrfachausgaben) zu verhindern. 
+Wir schlagen eine Lösung für das Double-Spending-Problem vor, indem wir ein Peer-to-Peer-Netzwerk benutzen. 
+Das Netzwerk gibt Transaktionen einen Zeitstempel, indem es sie in eine fortlaufende Kette von Hash-basierten Arbeitsbeweisen (Proof of Work) hasht und so eine Aufzeichnung erzeugt, die nicht geändert werden kann, ohne den Proof of Work neu zu erzeugen. 
+Die längste Kette dient nicht nur als Nachweis für die Sequenz bezeugter Ereignisse, sondern auch als Beweis, dass sie vom größten Pool an CPU-Leistung stammt. 
+Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer. 
+Das Netzwerk selbst erfordert nur eine Minimalstruktur. 
+Nachrichten werden auf Best-Effort-Basis übertragen, und die Nodes können das Netzwerk beliebig verlassen und wieder betreten, da sie die längste Proof-of-Work-Kette als Beweis darüber akzeptieren, was geschah, während sie weg waren.

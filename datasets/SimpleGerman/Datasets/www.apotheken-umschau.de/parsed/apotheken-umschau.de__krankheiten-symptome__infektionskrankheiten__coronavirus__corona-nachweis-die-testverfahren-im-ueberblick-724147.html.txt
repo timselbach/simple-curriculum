@@ -1,0 +1,154 @@
+Ob man sich mit dem Coronvirus SARS-CoV-2 angesteckt hat, lässt sich mithilfe von Tests ermitteln. 
+Wir stellen im Folgenden die wichtigsten Tests und ihre Grenzen vor.
+Zu Beginn der Pandemie führten die Labore in Deutschland etwa 350.000 Tests pro Woche durch. 
+Inzwischen wurden die Kapazitäten stark erweitert. 
+Das Robert Koch-Institut gibt derzeit an, dass jede Woche etwa 2,3 Millionen PCR-Tests durchgeführt werden können.
+Nach aktueller Empfehlung des Robert Koch-Instituts (RKI) sollten beispielsweise Personen getestet werden, auf die mindestens eines der Kriterien zutrifft:
+schwere Atemwegssymptome (zum Beispiel Bronchitis, Lungenentzündung, Atemnot) Fieber akute Störung des Geruchs- oder Geschmacksinns akute Symptome einer Atemwegsinfektion bei Personen, die ein besonderes Risiko für einen schweren Verlauf von Covid-19 haben (zum Beispiel ältere Menschen) oder ein höheres Infektionsrisiko haben (zum Beispiel Arbeit in einer ärztlichen Praxis, Lehrpersonal,...) oder engen Kontakt zu Angehörigen einer Risikogruppe haben (zum Beispiel bei der Pflege alter oder kranker Familienangehöriger, als Altenpfleger oder -pflegerin) enger Kontakt mit einer mit SARS-CoV-2 infizierten Person Verschlechterung einer bestehenden Atemwegsinfektion
+Menschen, welche engen Kontakt zu einem bestätigten Covid-19-Fall hatten, sollten sich testen lassen. 
+Dazu gehören Personen, die entweder im selben Haushalt leben oder beispielsweise über die Corona-Warn-App über einen positiven Kontakt informiert wurden.
+Bei leichteren Symptomen wie Husten kann ebenfalls ein Test sinnvoll sein. 
+Das ist vor allem dann der Fall, wenn man zu einer Risikogruppe gehört oder beispielsweise in einer medizinischen oder einer Pflegeeinrichtung tätig ist, wo die Möglichkeit besteht, Personen anzustecken, die ein hohes Risiko für einen schweren Verlauf der Infektion hätten.
+Weitere großzügige Testungen können bei einem Ausbruchsgeschehen in Gemeinschaftseinrichtungen wie beispielsweise Krankenhäusern, Schulen oder Kindergärten nötig sein. 
+Regelmäßige (routinemäßige) Testungen können zum Beispiel bei medizinischem Personal oder Pflegepersonal sinnvoll sein. 
+Hierfür kommen häufig Antigentests zum Einsatz. 
+Bei einem positiven Testergebnis wird dann zusätzlich zur Sicherheit ein PCR-Test gemacht, da dieser genauer ist.
+Sollten Sie unsicher sein, ob ein Test auf SARS-CoV-2 bei Ihnen sinnvoll ist, kontaktieren Sie telefonisch ihre hausärztliche Praxis oder den ärztlichen Bereitschaftsdienst. 
+Bei akuter Atemnot rufen Sie den Rettungsdienst unter der 112 an.
+Besonders aussagekräftig sind Tests, welche eine hohe Spezifität und eine hohe Sensitivität haben. 
+Aber was bedeuten diese Kriterien genau?
+Die Spezifität beschreibt die Genauigkeit eines Tests, ob alle gesunden getesteten Personen auch als Gesunde erkannt werden. 
+Die Sensitivität gibt Auskunft darüber, ob alle Kranken auch als Kranke erkannt werden.
+Sensitivität: 
+Eine infizierte Person ist wirklich infiziert und erhält ein positives Testergebnis.
+Bei einem Test mit 98%iger Sensitivität werden also 98 von 100 Infizierten erkannt, zwei werden nicht erkannt. 
+Sie erhalten ein negatives Testergebnis, obwohl sie infiziert sind. 
+Diese falschen Testergebnisse werden als "falsch-negativ" bezeichnet.
+Spezifität: 
+Eine gesunde (nicht infizierte) Person wird auch als gesund erkannt und erhält ein negatives Testergebnis.
+Bei einem Test mit 95%iger Spezifität werden also 95 von 100 Gesunden als gesund erkannt. 
+5 von 100 erhalten ein positives Testergebnis, obwohl sie nicht infiziert sind. 
+Diese falschen Ergebnisse nennt man "falsch-positiv".
+Ein Test mit hoher Sensitivität aber relativ geringer Spezifität kann dementsprechend auch falsch-positive Befunde erzeugen.
+Allerdings sind nicht nur die testspezifischen Kriterien wichtig. 
+Auch die Vortestwahrscheinlichkeit spielt eine Rolle. 
+Sie gibt an, wie hoch das geschätzte Risiko für eine Infektion für die betroffene Person ist. 
+Die Vortestwahrscheinlichkeit ergibt sich einerseits aus dem Umfeld der betroffenen Person (Arbeitsumfeld, viele Kontakte und so weiter), als auch der Prävalenz (= Anzahl der Infizierten in der Gesamtbevölkerung). 
+Ist die Vortestwahrscheinlichkeit hoch, beispielsweise weil man Kontakt zu einer infizierten Person hatte, weil man selbst passende Symptome hat oder die Prävalenz in der Region hoch ist, macht ein positives Ergebnis das tatsächliche Vorliegen einer Infektion deutlich wahrscheinlicher.
+Ein weiterer Knackpunkt ist der Zeitpunkt wann eine erkrankte Person getestet wird: 
+Vor allem zu Beginn und beim Abklingen einer Infektion ist die Viurslast noch (oder wieder) niedrig, das kann zu falsch-negativen Ergebnissen führen. 
+„Bei den Antigenschnelltesten ist zudem das Problem, dass am Beginn der Erkrankung bei sehr hoher Viruslast und Infektiösität der Nachweis oft noch negativ ist und erst am Folgetag dann ein korrektes Ergebnis erhalten wird“, erläutert Matthias Orth, Chefarzt des Instituts für Laboratoriumsmedizin im Marienhospital Stuttgart.
+Auch die korrekte Probenentnahme oder der Transport sind Einflüsse, die bei unsachgemäßer Verwendung zu falsch-negativen Testergebnissen führen können. 
+Daher sollte bei begründetem Verdacht (die getestete Person hat Symptome, ist Kontaktperson, ...) gegebenenfalls ein zweiter PCR-Test durchgeführt werden. 
+Auch ein positives Testergebnis im Antigen-Test muss durch eine PCR-Testung bestätigt werden.
+Die Darstellungen zeigen, wo genau ein Abstrich für die Coronatests entnommen werden sollte. 
+An der hinteren Rachenwand kann zum Beispiel ein Abstrich entnommen werden, hierbei kann es durchaus zu einem kurzen Würgereiz kommen, das ist normal. 
+Achtung: 
+Bei den Selbsttests genügt meist eine Abnahme aus dem vorderen Nasenbereich. 
+Lesen Sie daher bitte immer die Anleitung und befolgen Sie sie genau! 
+Unsere Videos können Ihnen ebenfalls eine Hilfestellung zur richtigen Anwendung der Selbsttests geben.
+Dieses Testverfahren weist das Erbgut des neuartigen Coronavirus (SARS-CoV-2) nach. 
+Der PCR-Labortest gilt als das sicherste Verfahren, eine Infektion festzustellen. 
+Allerdings liegen die Ergebnisse meist erst nach 24 Stunden, manchmal sogar erst nach mehreren Tagen nach Abstrichentnahme vor.
+Für den Abstrich wird Material aus dem Mund-, Nasen- oder Rachenraum benötigt. 
+Es ist wichtig, Matierial aus dem tiefen Rachenraum zu gewinnen, daher verursacht ein Abstrich bei den meisten Menschen einen kurzen Würgereiz. 
+Wird das Material nicht am korrekten Ort entnommen, riskiert man ein negatives Ergebnis, obwohl eine Infektion vorliegt.
+Die Test-Kits bestehen aus einem Plastikröhrchen, welches am Deckel geöffnet wird. 
+Mit einer Art Wattestäbchen, welches lang genug ist, um damit den Rachen- oder tiefen Nasenraum zu erreichen, entnimmt medizinisch geschultes Presonal die Probe. 
+Nach der Probeentnahme wird das Test-Kit verschlossen und an entsprechende Labore geschickt. 
+Im Labor wird mit Hilfe empfindlicher molekularer Tests, der "Real-time Reverse Transkriptase Polymerase-Kettenreaktion" (englisch abgekürzt RT-PCR), das Virusmaterial nachgewiesen. 
+Die PCR vervielfältigt das wenige Virusmaterial (siehe auch ct-Wert). 
+Über spezielle Anfärbungen (fluoreszierende Stoffe) kann es sichtbar gemacht, gemessen und dann die Viruskonzentration bestimmt werden.
+Wichtig dabei ist, das ein PCR-Test immer nur eine Momentaufnahme liefert. 
+Das Testergebnis spiegelt die Infektionslage lediglich zum Zeitpunkt der Entnahme wieder.
+Für wen eignet sich der PCR-Test?
+Der klassische PCR-Abstrichtest ist sinnvoll bei Menschen mit corona-typischen Symptomen sowie engen Kontaktpersonen einer mit SARS-CoV-2 infizierten Person. 
+Auch um ein Ausbruchsgeschehen genauer nachzuvollziehen, beispielsweise wenn es zu mehreren Infektionen in einer Pflegeeinrichtung oder einer Schule gekommen ist, können PCR-Tests bei allen Beteiligten durchgeführt werden. 
+Desweiteren ist nach einem positiven Antigen-Schnelltest immer ein PCR-Test notwendig, um das Ergebnis zu bestätigen. 
+Personen mit einem positiven Antigen-Schnelltest sollten sich daher unverzüglich isolieren und telefonisch Kontakt zu Ihrem Hausarztpraxis oder dem ärztlichen Bereitschaftsdienst aufnehmen, um einen PCR-Test zu veranlassen.
+Die molekularen Schnelltests basieren, ebenso wie die klassischen Labor-Tests, auf der sogenannten Polymerasekettenreaktion (PCR) oder verwandten Techniken mit denen Erbgut des Virus nachgewiesen werden kann. 
+Normalerweise benötigt dieser Prozess mehrere Schritte, deshalb wird er auch im Labor durchgeführt. 
+"Die Schnelltests, auch Kartuschentests genannt, haben vereinfacht gesagt das Labor in einem kleinen Kasten schon integriert", sagt Matthias Orth. 
+Deshalb kann der Test mit einem Abstrich aus dem Mund-Rachen-Raum direkt vor Ort durchgeführt werden, die Transportzeit zum Labor entfällt und das Ergebnisse liegt rasch (innerhalb von ein bis etwa zweieinhalb Stunden) vor.
+Aber die Schnelltests haben auch Nachteile: 
+Sie sind weniger zuverlässig. 
+Denn eine Kartusche spuckt nur eines von drei Ergebnissen aus: 
+positiv, negativ oder unklar: 
+"Wenn es bei dem PCR-Schnelltest unklare Ergebnisse gibt, kann dies noch geprüft und genauer untersucht werden", sagt Orth.
+Für wen eignet sich der PCR-Schnelltest?
+Der Einsatz von Schnelltests ist auf spezielle Situationen begrenzt, in denen man schnell herausfinden möchte, ob eine Person infektiös ist oder nicht. 
+Dazu gehören zum Beispiel Testungen in
+Notaufnahmen Ambulanzen oder Pflegeeinrichtungen.
+"Sie sind keine Game Changer", fasst Orth zusammen, also keine Errungenschaft, die die Situation grundlegend ändern könnten. 
+Auch hier ist es sehr wichtig, dass die Probenentnahme fachgerecht durchgeführt wird. 
+Ansonsten riskiert man, falsche Ergebnisse zu bekommen.
+Eine weitere Art von Tests, die zunehmend zum Einsatz kommen, sind die sogenannten Antigentests oder auch kurz „Schnelltests“. 
+Hier wird nicht das Erbmaterial des Virus nachgewiesen, sondern Eiweißfragmente (Proteine) aus der Hülle des Virus.
+Der Test ist ähnlich simpel wie ein Schwangerschaftstest: 
+Man bringt die Patientenprobe in eine Pufferlösung und gibt dann eine bestimmte Menge dieser Lösung auf den Streifen auf, wo sie reagiert. 
+Entsprechend unkompliziert lässt er sich in großer Stückzahl produzieren. 
+Ein weiterer Vorteil: 
+Er liefert noch schneller Ergebnisse als die PCR-Schnelltests, meist innerhalb von 15 bis 20 Minuten. 
+Allerdings finden sich je nach Hersteller Unterschiede bezüglich der Spezifität und Sensitivität. 
+Eine Cochrane-Analyse zeigte, dass viele der weltweit eingesetzten Schnelltests gerade symptomlose, mit SARS-CoV-2 infizierte Personen nicht sicher erkennen .
+Antigentests können als Ergänzung von PCR-Tests vor allem dort sinnvoll sein, wo eine schnelle (Vor-)Sortierung in möglicherweise Infizierte und eher nicht-Infizierte erfolgen muss. 
+Das kann beispielsweise in der Notaufnahme eines Krankenhauses der Fall sein, wenn sich man noch nicht weiß, ob der Mensch mit dem gebrochenen Fuß sich nicht eventuell auch mit Corona angesteckt hat.
+Bei den Tests, welche beim Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) aufgeführt werden, werden die Herstellerangaben verglichen mit den vom Robert Koch-Institut (RKI) festgelegten Mindestkriterien für Antigen-Tests.
+Doch auch der Antigen-Test hat zwei Haken. 
+"Deutlich mehr noch als die PCR-Schnelltests sind auch die Antigentests sehr viel unzuverlässiger als die Labortests", sagt Labormediziner Matthias Orth. 
+Das liegt unter anderem daran, dass die Coronaviren sich untereinander sehr ähnlich sind – entsprechend kann es gelegentlich vorkommen, dass ein Test nicht wegen SARS-CoV-2 positiv ist, sondern wegen eines anderen Virus aus der Corona-Familie. 
+Deshalb müssen positive Schnelltests immer durch einen PCR-Test überprüft werden.
+Wichtig zu wissen: 
+Ein negatives Ergebnis im Antigentest schließt eine Infektion nicht aus. 
+Denn wenn eine niedrige Viruslast vorliegt, zum Beispiel zu einem frühen Zeitpunkt der Infektion, kurz nach Ansteckung, kann der Test trotz der Infektion ein negatives Ergebnis bringen. 
+Daher ist der Zeitpunkt der Testung auch hier entscheidend und stellt ebenfalls immer nur eine Momentaufnahme dar. 
+Ein negativer Antigen-Test bedeutet also nur, dass man zum Zeitpunkt der Probenentnahme wohl nicht besonders ansteckend war. 
+Ein positives Ergebnis hingegen, muss mittels eines PCR-Tests noch bestätigt werden.
+Am 24.02.2021 erfolgte vom BfArM die erste Zulassung für Antigen-Tests, welche von jeder Person ohne medizinische Vorkenntnisse zuhause selbst durchgeführt werden können. 
+Sie sind vom Testprinzip her den Antigen-Schnelltests identisch, aber mit dem Unterschied, dass die Probenentnahme einfacher, zum Beispiel aus dem vorderen Nasenbereich, erfolgen kann. 
+Auch Tests aus Speichel (“Spucktests“) sind inzwischen zugelassen.
+Mehr Informationen zu den Selbsttests zuhause erhalten Sie auch in unserem Podcast
+Antikörpertests erfassen nicht das Virus selbst, sondern die Reaktion des Immunsystems auf den Erreger. 
+Dieses beginnt zu arbeiten, wenn das Virus in den Körper eindringt und bildet nach ein paar Tagen Antikörper. 
+Diese sind Teil der Abwehr und im Blut gut nachweisbar. 
+Aufgrund der zeitlichen Verzögerung ist der Test nicht dazu geeignet, eine akute Infektion nachzuweisen und bietet keine Alternative zum PCR-Test. 
+Es gibt Antikörpertests in Form von Labor- oder Schnelltests.
+Die Schnelltests werden kommerziell angeboten. 
+Die WHO (Word Health Organization) rät aber aktuell von solchen Schnelltests als Basis für eine Diagnose ab. 
+Sie sollten nur im Rahmen von Forschungsprojekten eingesetzt werden. 
+Auch Dr. 
+Marc Becker, Facharzt für Laboratoriumsmedizin und Leiter des Labor Becker & Kollegen in Süddeutschland warnt: 
+"Wir sehen im Moment, dass diese Teste nicht über die ausreichende Qualität verfügen, dass sie mit einem Test, der im Labor durchgeführt wird, mithalten könnten."
+Ein anderes Verfahren sind Antikörpertests, die im Labor durchgeführt werden (die Methoden heißen ELISA oder CLIA). 
+Diese können Antikörper circa zwei Wochen nach Symptombeginn nachweisen.
+Interessant sind solche Antikörpertests für bestimmte Berufsgruppen wie Pflege- und weiteres medizinisches Personal, sowie bestimmte Risikogruppen. 
+Und auch zur Klärung der Frage, wie viele Personen in Deutschland bereits unbemerkt eine Corona-Infektion hatten, sind Antikörpertests sinnvoll. 
+Derzeit laufen am Robert Koch-Institut mehrere bundesweite Studien dazu.
+Die Kosten für einen Labortest (nicht aber für einen Schnelltest) können von den Vertragsärzten mit den gesetzlichen Krankenversicherungen abgerechnet werden. 
+Entscheidend bei der Übernahme der Kosten ist eine medizinische Notwendigkeit. 
+Klären Sie gegebenenfalls zuvor mit Ihrer Krankenkasse, ob eine Kostenübernahme erfolgt.
+Wie so oft in der Medizin gibt es leider auch bei dieser Frage keine hundertprozentige Sicherheit: 
+Bis jetzt lässt sich nur sagen, dass bei einem positiven Antikörpertest ein Schutz vor einer erneuten Infektion wahrscheinlich für eine Weile besteht. 
+Eine Restunsicherheit bleibt auch, weil die Antikörper-Tests mit anderen, sehr ähnlichen Viren reagieren können – eine sogenannte Kreuzreaktion, die dann ebenfalls zu einem positiven Ergebnis führt. 
+"Man kann auch mit einem positiven Testergebnis nicht immun gegen das Virus sein", ist die Einschätzung von Becker.
+Nach Aufenthalt in einem Risikogebiet müssen Reiserückkehrer bis spätestens 48 Stunden nach der Einreise nach Deutschland nachweisen können, dass Sie nicht mit dem Coronavirus infiziert sind (Stand 17.05.2021). 
+Der Abstrich für den Test darf frühestens 72 Stunden vor der Einreise gemacht worden sein. 
+Die Tests müssen die vom Robert Koch-Institut vorgebenen Kriterien erfüllen.
+Strengere Regeln gelten für Einreisende aus Hochinzidenzgebieten oder Virusvarianten-Gebieten. 
+Wer sich innerhalb der letzten zehn Tage vor seiner Einreise nach Deutschland in einem solchen Gebiet aufgehalten hat, muss sich bereits vor Antritt der Reise nach Deutschland auf SARS-CoV-2 testen lassen. 
+Der Abstrich für den Test darf frühestens 48 Stunden, bei Virusvarianten-Gebieten 24 Stunden vor der Abreise nach Deutschland vorgenommen werden.
+Einreisende aus Risikogebieten, Hochinzidenzgebieten und Virusvarianten-Gebieten müssen sich vor ihrer Abreise auf www.einreiseanmeldung.de anmelden.
+Nach der Einreise müssen sich Reiserückkehrer auf direktem Weg für 10 Tage in häusliche Quarantäne begeben. 
+Bei Einreise aus Virusvariantengebieten dauert die Quarantäne 14 Tage. 
+Durch ein negatives Testergebnis kann die Quarantäne für Reiserückkehrer aus Risikogebieten und Hochinzidenzgebieten verkürzt werden. 
+Nach frühestens fünf Tagen Quarantäne können sich die Einreisenden aus Hochinzidenzgebieten auf SARS-CoV-2 testen lassen. 
+Ein negatives Ergebnis kann dann die Quarantäne beenden. 
+Bei Virusvariantengebieten lässt sich die Quarantänedauer nicht verkürzen. 
+Sie beträgt immer 14 Tage.
+Da die Länder diese Regelungen in eigener Zuständigkeit umsetzen, informieren Sie sich bitte über die Bestimmungen des jeweiligen Bundeslandes, in das Sie einreisen möchten. 
+Für vollständig Geimpfte und Personen, die nachweisen können, dass sie innerhalb einer bestimmten Zeit vor der Reise von einer Infektion mit SARS-CoV-2 genesen sind, kann es Ausnahmen geben. 
+Informieren Sie sich dazu beispielsweise im Internet auf den Seiten der Bundesregierung, dem Auswärtigen Amt oder dem Robert Koch-Institut.
+Eine Liste über aktuelle Risikogebiete finden Sie auf der Seite des RKI: 
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+Weitere Informationen (Fragen und Antworten bei Einreisen aus Risikogebieten) finden Sie auf der Seite des Bundesministeriums für Gesundheit: 
+https://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-einreisende.html

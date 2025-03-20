@@ -1,0 +1,14 @@
+Erfasst werden Informationen wie Nutzungsdaten, Einstellungen, Gmail-Nachrichten, Google+ Profil, Fotos, Videos, Browserverlauf, Kartensuchen, Dokumente oder andere von Google gehostete Inhalte. 
+(…) Diese Erfassung kann alle Inhalte betreffen, die unsere Systeme durchlaufen. 
+(…) Unter Umständen scannt unser System automatisch die Inhalte unserer Dienste, etwa E-Mails in Gmail (…).
+Zum Beispiel teilen wir den Werbetreibenden regelmäßig mit, (…) ob sich Nutzer diese Anzeige wahrscheinlich angesehen haben (…). 
+Darüber hinaus können auch andere Interaktionen gemessen werden, etwa wie Nutzer ihre Maus über eine Anzeige bewegt haben (…).
+Wir erfassen gerätespezifische Informationen, beispielsweise das Modell der von Ihnen verwendeten Hardware, die Version des Betriebssystems, eindeutige Gerätekennungen und Informationen über das Mobilfunknetz einschließlich Ihrer Telefonnummer. 
+Google verknüpft Ihre Gerätekennungen oder Telefonnummer gegebenenfalls mit Ihrem Google-Konto.
+Mit dem Standortverlauf speichert Google die Abfolge Ihrer Standortdaten (…). 
+Die Daten aus dem Standortverlauf und den Standortberichten können von allen Google-Apps oder -Diensten verwendet werden. 
+(…) Beispielsweise kann mithilfe eines Beschleunigungsmessers die Bewegungsgeschwindigkeit und mit einem Gyroskop die Bewegungsrichtung festgestellt werden. 
+(…) Wenn Sie den Standortdienst von Google verwenden, sendet Ihr Gerät Informationen über nahe gelegene WLAN-Zugangspunkte, wie die MAC-Adresse und Signalstärke, und über nahe gelegene Mobilfunkmasten an Google (…)
+Viele Websites und Apps arbeiten (…) mit Google zusammen. 
+(…) Diese Produkte geben Daten über Ihre Aktivitäten an Google weiter. 
+Je nach Ihren Kontoeinstellungen und den verwendeten Produkten können diese Daten mit Ihren personenbezogenen Daten verknüpft werden (…).
