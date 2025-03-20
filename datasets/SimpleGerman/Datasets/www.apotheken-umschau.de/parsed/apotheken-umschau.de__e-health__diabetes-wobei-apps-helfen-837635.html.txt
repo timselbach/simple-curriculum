@@ -1,0 +1,43 @@
+Diagnose Diabetes: 
+Das bedeutet für viele Betroffene und ihre Angehörigen im ersten Moment eine massive Einschränkung. 
+Müssen sich Patientinnen und Patienten Insulin spritzen, um ihren Blutzuckerspiegel zu kontrollieren, braucht es Erfahrung und Aufmerksamkeit, um die passende Dosis herauszufinden: 
+Es müssen regelmäßig Glukosewerte gemessen, Kohlenhydrate gezählt und die passende Insulinmenge ausgerechnet werden. 
+Auch das kontinuierliche Protokollieren all dieser Daten ist oft eine lästige Pflicht.
+Medizin-Apps für Diabetes helfen zuckerkranken Kindern und Erwachsenen vor allem bei der Verwaltung und Organisation ihrer Werte und Daten. 
+Sie dienen als digitale Tagebücher für die händische oder automatische Dokumentation der unterschiedlichsten Daten für Diabetes-Therapie.
+Der Mehrwert: 
+Diese digitalen Gesundheitsanwendungen sparen Zeit und sind darüber hinaus genauer, unter anderem, weil die Nutzerinnen und Nutzer die Werte nicht beschönigen können. 
+Sie protokollieren Blutzucker- und Blutdruckwerte, Broteinheiten von Mahlzeiten, körperliche Aktivitäten, Informationen zum Wohlbefinden oder Krankheitssymptome sowie eingenommene Medikamente. 
+Smartphone-Apps können auch an die Einnahme von Medikamenten erinnern oder Arzneimittel per Strichcode auf der Packung erkennen.
+Sie bekommen über die technischen Hilfsmittel eine sofortige Rückmeldung sowie einen Hinweis darauf, wie sich der Glukosegehalt in der nächsten Zeit ändern wird. 
+So können Sie vorausschauend Ihren Insulinbedarf anpassen, wenn etwa in Kürze ein Essen geplant ist, Sie Sport machen möchten oder eine andere Aktivität ansteht.
+Grafische Verlaufsstatistiken oder Trendanalysen in Textform geben einen leicht verständlichen Überblick, helfen dabei Unregelmäßigkeiten vom Tages- bis zum Quartalsrhythmus zu erkennen und den Therapieverlauf besser einzuschätzen.
+Interessant für Eltern sind beispielsweise Medizin-Apps, mit denen die Kinder ihre Tagebuchdaten als PDF weiterleiten können. 
+Digitale Gesundheitsanwendungen dieser Art eignen sich auch für Nicht-Betroffene im Freundes- und Familienkreis. 
+Apps mit Rezepten und Lebensmitteldatenbanken erleichtern beispielsweise dem Gastgebenden das Kochen und Erstellen von passenden Gerichten und Speisenfolgen, da sich damit die gesamte Menge an Broteinheiten berechnen lässt.
+Viele Diabetiker wünschen sich die Bestimmung ihres Glukosewertes ohne regelmäßiges Piksen. 
+Möglich ist das mit der kontinuierlichen Glukoseüberwachung mittels eines NFC Sensor Implantats, kurz: 
+CGM (Continuous Glucose Monitoring) sowie dem FGM-Verfahren (Flash Glucose Monitoring) .
+Die CGM-Methode nutzt einen winzigen Sensorfaden, der am Bauch eingestochen wird und für sechs bis zehn Tage permanent den Zuckergehalt im Unterfettgewebe misst. 
+Ein darauf sitzender Sensor funkt die Daten zum Beispiel an ein Smartphone, das den aktuellen Wert und Verlauf anzeigt.
+Wird der individuell festgelegte untere und obere Grenzwert der betroffenen Person überschritten, ertönt ein Alarmsignal und es kann sofort gegengesteuert werden. 
+Bei der Langzeitvariante der CGM-Methode tragen die Diabetikerinnen und Diabetiker den Sensor für drei Monate lang unter der Haut, meist am Oberarm.
+Das FGM-Verfahren funktioniert ähnlich wie die CGM-Methode. 
+Hierbei muss das Smartphone (oder ein anderes Lesegerät) jedoch direkt vor den Sensor gehalten werden, um den Blutzuckerwert anzuzeigen.
+Ein ganz neues Verfahren wird derzeit in den USA entwickelt. 
+Der Tech-Gigant Apple forscht angeblich an einer Methode, mit der sich der Blutzuckergehalt über einen ganz speziellen Sensor messen lässt. 
+Laut einer Patentanmeldung in den Vereinigten Staaten will man den Insulinspiegel künftig über den Körpergeruch feststellen können. 
+Integriert in die Apple-Watch, genügt für den Diabetes-Patienten in Zukunft vielleicht ein schneller Blick auf die Uhr.
+In der Regel findet man das Angebot sowie mögliche Kostenübernahmen seiner Krankenkasse in der Rubrik "Leistungsverzeichnis". 
+Die Regelungen sind hier sehr unterschiedlich, deshalb empfiehlt es sich unbedingt bei der eigenen Krankenkasse vor Ort nachzufragen.
+Das gilt insbesondere auch für Frauen, die während der Schwangerschaft unter einer sogenannten Gestationsdiabetes leiden, wie für die spezifische Nutzung fortgeschrittener digitaler Gesundheitsanwendungen.
+Normalerweise übernehmen die gesetzlichen Kassen die Kosten für Medikamente und Hilfsmittel, sofern sie ärztlich verordnet sind. 
+Für Blutzuckermessgeräte erhält man in der Regel eine Pauschale. 
+Doch auch hierfür ist die Verordnung durch den Arzt nötig.
+Sind Sie noch auf der Suche nach einer geeigneten App? 
+In der inzwischen großen Auswahl ist es nicht ganz einfach, den Überblick zu behalten. 
+Auf welche Kriterien Sie achten sollten, dafür bieten Ihnen folgende Links weiterführende Informationen:
+Dia-Digital: 
+Qualitätssiegel für Diabetes-Apps Diabetes-Forum: 
+Checkliste des Informationsportals für die App-Auswahl
+Mehr zum Thema Diabetes finden Sie auch bei unserem Partnerportal DiabetesRatgeber .

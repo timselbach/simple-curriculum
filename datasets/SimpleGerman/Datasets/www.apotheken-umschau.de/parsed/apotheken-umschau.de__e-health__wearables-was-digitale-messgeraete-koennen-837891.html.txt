@@ -1,0 +1,57 @@
+Für viele Menschen sind Smartwatches ein Spielzeug: 
+Uhren, die mit dem Mobiltelefon verbunden sind und über Sensoren zudem Werte wie die Herzfrequenz kontrollieren können. 
+Auch für Adam L. 
+(24), Robotik-Student aus Australien, war der kleine Computer an seinem Handgelenk vor allem technisch interessant. 
+Doch schon kurz nach dem Kauf meldete die Uhr ständig, dass mit seinem Herzen etwas nicht in Ordnung sei: 
+Es schlage im Schlaf 130-mal pro Minute. 
+Viel zu schnell für einen jungen und sportlichen Mann. 
+Der Student suchte deshalb ­einen Arzt auf. 
+Der entdeckte einen angeborenen Herzfehler; kurze Zeit später wurde Adam L. 
+operiert.
+Eine Armbanduhr, die Herzleiden erkennt – bis vor Kurzem hätte das nach Fiktion geklungen, heute wird es mehr und mehr zur Realität. 
+Kleine tragbare Geräte (engl.: 
+Wearable) können Gesundheits- und Umweltdaten zunehmend genauer messen – dank raffinierter, winziger Sensoren. 
+Sie überwachen Herzfrequenz und Atem, melden Schlaf- und Wachphasen, messen die Körpertemperatur, registrieren Stürze und Stresstag oder berechnen verbrauchte Kalorien.
+Beworben werden sie von ihren Herstellern mit dem Versprechen, dass die Gesundheit von der Technik profitiere. 
+Dass etwa die Motivation zunehme, gesünder zu leben – mit mehr Bewegung, weniger Stress , besserem Schlaf.
+Damit passen die Geräte perfekt in unsere Zeit, findet der Soziologe Dr. 
+Nils Heyen, der am Fraunhofer-­Institut für System- und Innovationsforschung (ISI) zu neuen Technolo­gien in Medizin und Gesundheits­wesen forscht. 
+"Bei den Nutzern spie­­len Fitness - und Schönheitsideale eine Rolle, aber auch, dass man sich um das eigene Glück sorgt – und eben um die eigene Gesundheit."
+Die Verbraucher lassen sich das ­etwas kosten. 
+Je nachdem, wie viele Funktionen es bietet, kostet so ein Messgerät zwischen 50 und über 800 Euro. 
+Für die Hersteller sind die kleinen Produkte ein großes Geschäft geworden. 
+Umfrageergebnisse des Branchenverbands Bitkom ergaben bereits 2016, dass fast jeder dritte Deutsche die digitalen Helfer nutzt, um Daten über die eigene Gesundheit zu erheben und auszuwerten.
+Trotz der großen Verbreitung sind noch viele Fragen offen. 
+Die wichtigste: 
+Helfen die Geräte wirklich dabei, gesünder zu leben? 
+"Bislang ist die Studienlage dazu noch sehr uneinheitlich und insgesamt dünn", sagt Heyen.
+Eine von der EU geförderte Studie, die die Abnehmerfolge übergewichtiger Jugendlicher untersuchte, zeigte einen positiven Effekt, wenn die Probanden digitale Messgeräte für die Datenerhebung nutzten. 
+Sie waren allerdings nur eine von vielen Maßnahmen. 
+Eine größere Studie mit übergewichtigen Teenagern in den USA kam dagegen zu einem ernüchternden Ergebnis: 
+Die Teilnehmenden, die ihre Aktivität mit einem Tracker kontrollieren sollten, nahmen deutlich weniger ab als diejenigen ohne die Messgeräte.
+Dabei werden einige der neu entwickelten Funktionen von Fachleuten durchaus positiv beurteilt. 
+Herzspezialisten etwa nutzen sie schon länger, zum Beispiel bei Personen mit Verdacht auf Herzrhythmusstörungen . 
+Apple, eines der führenden amerikanischen IT-Unternehmen, hat ein neues Smartwatch-Modell auf den Markt gebracht, das ein einfaches Elektrokardiogramm ( EKG ) schreiben kann. 
+Der Nutzende muss nur einen Knopf an der Uhr mit dem Finger berühren.
+" Zur Überwachung des Herzrhythmus können ", sagt Thomas Deneke, Sprecher der Arbeitsgruppe Rhythmologie der Deutschen Gesellschaft für Kardiologie. 
+Studien zeigen, dass die digitalen Messgeräte Auffällig­kei­ten daran mit 90-prozentiger Sicherheit erkennen. 
+Im vergangenen Jahr erteilte die amerikanische Zulas­­sungs­­behörde für Medizinprodukte FDA der Uhr mit EKG-Funktion deshalb eine Genehmigung. 
+Auch in Deutschland ist diese Funktion auf den Geräten vorhanden.
+Eine verlässliche Blutdruckmessung dagegen werden die Geräte wohl erst in den kommenden Jahren leisten können. 
+Verschiedene Firmen arbeiten bereits seit Jahren an Modellen, die den Blutdruck auch ohne die klassische Oberarmmanschette ermitteln.
+Bisher konnten die Bemühungen nicht überzeugen. 
+"International ist das ein heiß diskutiertes Thema, aber die Studien bisher reichen für eine Zulassung oder Empfehlung noch nicht aus", sagt etwa Mark Grabfelder, Geschäftsführer der Deutschen Hochdruckliga.
+Und dann ist da noch der Datenschutz. 
+Häufig kritisieren Verbraucherschützer Apps, die sensible Gesundheitsdaten auswerten. 
+Denn das Interesse an diesen Daten ist groß: 
+bei Herstellern, Forschungseinrichtungen – oder Versicherungen. 
+Ebenso groß ist die Versuchung der Nutzer, bei den Allgemeinen Geschäftsbedingungen der Anbieter einfach ein Häkchen zu setzen – und damit die ei­genen Daten aus der Hand zu geben.
+In Europa sind der Nutzung solcher ­Daten gesetzliche Grenzen gesetzt. 
+In den USA jedoch gibt es bereits Ver­sicherer, die Lebensversicherungen nur noch Kunden anbieten, die im Gegenzug die Daten ihrer Fitness­tracker zur Verfügung stellen.
+Dabei könnten die Daten durchaus sinnvoll eingesetzt werden, sind Experten wie Nils Heyen überzeugt. 
+Bislang werden die nicht ganz billigen Geräte vor allem von Menschen genutzt, die ohnehin gesundheitsbewusst leben.
+Diejenigen, denen es im Alltag schwerfällt, sich in ausreichendem Maß zu bewegen oder gesund zu ernähren, bleiben ­dagegen außen vor. 
+Geringverdiener zum Beispiel oder Alleinerziehende. 
+Datenwolken könnten hier ansetzen und Ideen für bessere Präventionsangebote liefern. 
+Soziologe Heyen bedauert: 
+"Bislang ist das eher ein Versprechen geblieben."
