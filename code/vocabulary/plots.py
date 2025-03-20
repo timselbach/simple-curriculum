@@ -152,7 +152,7 @@ def plot_metric_correlation_heatmap(X, metric_names, corr_method='pearson', figs
 
     # Adjust layout and display the heatmap
     plt.tight_layout()
-    plt.savefig("/home/iailab34/selbacht0/Sync/results/figures/corr_matrix.pdf")
+    #plt.savefig("/home/iailab34/selbacht0/Sync/results/figures/corr_matrix.pdf")
     plt.show()
     plt.close()
 
