@@ -1,0 +1,34 @@
+Das ist Bitcoin: 
+Geld im Computer ohne Bank
+Bitcoin ist eine neue Art von Geld. 
+Bitcoin ist eine „digitale Währung“. 
+Das heißt: 
+Bitcoin ist Geld im Computer. 
+Das ist neu: 
+Bitcoin braucht keine Bank. 
+Wenn ich dir Geld schicke, heißt das: 
+Transaktion. 
+Wenn ich dir Geld schicke, unterschreibe ich die Transaktion. 
+Dann weiß jeder: 
+Die Transaktion ist von mir. 
+Dazu kriegt jede Transaktion einen Stempel mit der Uhrzeit. 
+Dann weiß jeder: 
+Die Transaktion ist von dieser Uhrzeit. 
+Vielleicht will ein Betrüger das gleiche Geld zweimal ausgeben. 
+Dann schauen die Leute auf den Stempel mit der Zeit. 
+Dann sagen die Leute: 
+Es gibt schon eine ältere Transaktion. 
+Dann wird die neue Transaktion gelöscht. 
+In jeder Transaktion ist auch ein Rätsel eingebaut. 
+Das Rätsel muss von einem Bitcoin-Computer gelöst werden. 
+Alle Bitcoin-Computer wollen dieses Rätsel lösen. 
+Auch die Betrüger wollen das Rätsel lösen. 
+Aber es gibt viel mehr ehrliche Bitcoin-Computer. 
+Deshalb sind die ehrlichen Bitcoin-Computer schneller. 
+Der schnellste Bitcoin-Computer bekommt einen Gewinn. 
+Danach wird das Geld aus der Transaktion überwiesen. 
+Dann wird die Transaktion für immer gespeichert. 
+So entsteht eine sehr lange Kette mit allen Transaktionen. 
+Es gibt sehr viele Kopien von dieser Kette. 
+Darin kann man jede Transaktion nachschauen. 
+Jeder kann bei Bitcoin mitmachen.

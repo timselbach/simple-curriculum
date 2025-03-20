@@ -1,0 +1,41 @@
+Zwischen 20 und 30 Millionen Menschen in Deutschland leiden unter hohem Blutdruck - also fast jeder Dritte. 
+Bedenklich viele, denn Bluthochdruck ist der bedeutendste Risikofaktor für Herz-Kreislauf-Erkrankungen. 
+Die gute Nachricht: 
+Mit Medikamenten und einem gesunden Lebensstil gelingt es den meisten, zu hohe Werte langfristig zu senken. 
+Digitale Helfer können die Therapie unterstützen und den Umgang mit der Krankheit erleichtern.
+Zum Thema Bluthochdruck findet man in den App-Stores eine Vielzahl von Angeboten. 
+Bei Wearables wie Smartwatches ist es noch sehr überschaubar. 
+Viele der Gesundheits-Apps lassen sich mit einem Blutdruckmessgerät koppeln. 
+Die ermittelten Werte werden via Bluetooth in ein digitales Tagebuch übertragen. 
+Diese Daten kann der Nutzer meist auch per Sprache oder manuell eingeben. 
+Hier überzeugen vor allem jene digitalen Gesundheitsanwendungen, die dank eines Plausibilitäts-Checks Falscheingaben verhindern.
+Die meisten Apps ermöglichen der Arztpraxis über eine Schnittstelle Zugriff auf die Dokumentation. 
+Um Ihre Daten zu schützen, bleibt beispielsweise der Code für die Übertragung nur kurze Zeit aktiv. 
+Auch können Sie aus den Daten PDFs erstellen, um sie leichter weiterzugeben.
+Neben den Blutdruckwerten können die Apps noch weitere Daten dokumentieren, wie
+Puls Blutzucker Bewegung Gewicht Kalorienzufuhr Schlaf Temperatur
+Einige Anwendungen sind zudem in der Lage, Daten aus Fitness-Armbändern zu verarbeiten. 
+All diese Informationen können Sie sich in Tabellen oder Grafiken übersichtlich anzeigen lassen. 
+Auffällige Werte werden farblich hervorgehoben. 
+Allerdings sollten Sie in diesem Fall unter keinen Umständen selbst die Therapie anpassen und zum Beispiel die Dosierung der Medikamente verändern, sondern diese Daten als Grundlage für den Termin in der ärztlichen Praxis nutzen.
+Zwar bieten auch schon einige Smartwatches die Funktion an, am Handgelenk den Blutdruck zu ermitteln. 
+Allerdings sind die Ergebnisse noch so ungenau, dass sie für die sichere Messung nicht geeignet sind. 
+Hier sollten Sie lieber bei einem klassischen Messgerät für das Handgelenk oder den Oberarm bleiben.
+Die aussagekräftigen Aufzeichnungen der Blutdruckdaten unterstützen die Ärztin oder den Arzt bei der Therapie. 
+Zudem erinnern die Apps den Patienten daran, regelmäßig seine Werte zu ermitteln oder seine Medikamente einzunehmen. 
+Der größte Vorteil: 
+Blutdruck-Apps ermöglichen es Ihnen, ein umfassenderes Bild über Ihre Werte zu erhalten und Auffälligkeiten dank der Messdaten leichter wahrzunehmen. 
+Das kann Ihnen mehr Sicherheit beim Blutdruckmanagement geben, aber auch dazu motivieren, sich entschiedener um Ihre Gesundheit zu kümmern.
+Allerdings unterscheiden sich die Apps in qualitativer Hinsicht stark voneinander. 
+Viele davon gelten nicht als Gesundheitsprodukt und müssen daher keine strengen Zulassungskriterien erfüllen – weder bei der Wissenschaftlichkeit noch beim Datenschutz. 
+Daher sollten Sie ausgewählte Angebote immer genau prüfen.
+Eine gute Orientierung bietet bald die Deutsche Hochdruckliga ( www.hochdruckliga.de ). 
+Sie hat im November 2019 damit begonnen, Blutdruck-Apps zu zertifizieren. 
+Ein interdisziplinäres Team aus Datenschutz- und Medizinfachleuten sowie Selbsthilfegruppen prüft diese auf
+Fachlichkeit Evidenz Neutralität Berücksichtigung der Leitlinien Aktualität Transparenz Fehlerkultur des Anbieters Benutzerfreundlichkeit Datensicherheit Datenschutz
+Dabei gibt es Kriterien, gegen die auf keinen Fall verstoßen werden darf. 
+Das ist beispielsweise bei einem fehlenden Impressum oder mangelnder Berücksichtigung der medizinischen Therapie-Leitlinien der Fall. 
+Die Zertifizierungen sind noch nicht abgeschlossen. 
+In Zukunft möchte die Deutsche Hochdruckliga dieses Angebot auf ihrer Webseite veröffentlichen.
+All diese Apps dienen nur zur Kontrolle und Unterstützung der Therapie. 
+Die Behandlung selbst erfolgt immer gemeinsam mit der Arztpraxis.
