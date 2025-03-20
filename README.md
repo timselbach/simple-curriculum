@@ -34,12 +34,12 @@ python -m spacy download en_core_web_trf
 
 ## Before getting started
 
-To run the experiments, you have to set the ```MODEL_SAVE_BASE_PATH``` and ```TOKENIZER_SAVE_BASE_PATH``` to the directory of your system where the model and tokenizer should get saved to e.g. ```MODEL_SAVE_BASE_PATH=/home/alice/simple_curriculum/results/model```.
-
+To run the experiments, you have to set some variables in the ```code.curriculum.config.py``` file. Set ```MODEL_SAVE_BASE_PATH``` and ```TOKENIZER_SAVE_BASE_PATH```to the directory of your system where the model and tokenizer should get saved to e.g. ```MODEL_SAVE_BASE_PATH=/home/alice/simple_curriculum/results/model```.
 Also, you need to set the ```DATASETS_BASE_PATH``` to you datasets directory, e.g. ```DATASETS_BASE_PATH=/home/alice/simple_curriculum/datasets```
 
-Additionally, the paths in ```data.all_datasets.py``` need to be set to the correct location e.g. ```/home/alice/simple_curriculum/datasets/SimpleGerman/Datasets/```
+Additionally, the paths in ```code.data.all_datasets.py``` need to be set to the correct location e.g. ```/home/alice/simple_curriculum/datasets/SimpleGerman/Datasets/```
 
+(Oprional: Set the dataset paths in ```code.data.datasets.py``` if you want to work with respective functions)
 
 ## Usage
 
@@ -51,7 +51,7 @@ All the needed files and functions for vocabulary or metric analysis are located
 
 ### Pre-training
 
-A specific training scenario can be defined in ```curriculum/config.py```. If you want to train a new tokenizer from scratch, you have to set TRAIN_TOKENIZER=True. Otherwise, you can set the respective tokenizer paths to load the pretrained tokenizers from in the ```curriculum/main.py```.
+A specific training scenario can be defined in ```code.curriculum/config.py```. If you want to train a new tokenizer from scratch, you have to set TRAIN_TOKENIZER=True. Otherwise, you can set the respective tokenizer paths to load the pretrained tokenizers from in the ```code.curriculum/main.py```.
 
 The training strategy can be set in the ```TRAINING_STRATEGY``` variable. The type key can be set to incremental, competence, or sequential. In the case of competence training, be sure to set the ```DIFFICULTY_METRIC``` variable.
 
