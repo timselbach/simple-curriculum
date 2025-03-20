@@ -1,0 +1,28 @@
+Blutwerte, Medikationspläne, Impfungen und vieles mehr stehen noch auf Karteikarten und Computerfestplatten in zig Arztpraxen. 
+Wer die Praxis wechselt, muss oft die gleichen Fragebögen ausfüllen, seine ganze Krankengeschichte von vorne erzählen oder medizinische Unterlagen erst mühsam für die weitere Behandlung besorgen. 
+Doppeluntersuchungen und zeitraubende Rückfragen sind deshalb keine Seltenheit. 
+Das soll sich mit der elektronischen Patientenakte ändern.
+Ab 2021 sollen auf persönlichen Wunsch alle Gesundheitsdaten lebenslang in der elektronischen Patientenakte, kurz ePA, gespeichert werden. 
+Damit können Patientinnen und Patienten in Zukunft Dokumente über ihre Gesundheit am eigenen Handy oder Tablet einsehen und verwalten. 
+Auch der Austausch von Dokumenten zwischen verschiedenen Arztpraxen, Apotheken, Kliniken und den Patientinnen und Patienten wird somit erleichtert.
+Arztpraxen können sich so zum Beispiel einen Überblick über die Krankengeschichte der zu Behandelnden und die Therapie darauf aufbauen – bei harmlosem Bauchweh , nach einer Operation oder im Notfall. 
+Dass dieses Konzept funktioniert, zeigt sich beispielsweise in Österreich, der Schweiz und in Estland. 
+Dort ist die ePA in jeweils ähnlicher Form bereits etabliert oder auf dem Vormarsch.
+Letztendlich können Sie alle Daten, die für Ihre Gesundheit relevant sind, im mobilen Gesundheitsbuch hinterlegen. 
+Das umfasst:
+Erkrankungen und ärztliche Befunde wie Blutwerte und Ergebnisse von Allergietests Fotos und Grafiken wie Röntgenbilder, CTs, EKGs und Ergebnisse von Lungenfunktionstests Therapieberichte, OP-Berichte und Arztbriefe Impfungen und künftige Impftermine Dokumentationen über Schwangerschaften und Geburten Informationen über den Aufbewahrungsort persönlicher Erklärungen wie Organspendeausweis Patientenverfügung Vorsorgevollmacht Medikationspläne Informationen für Notfälle, etwa zu chronischen Erkrankungen, früheren Operationen, Medikamenten und Allergien Persönliche Aufzeichnungen wie Schmerztagebücher, Blutdruckpässe oder Infos aus Fitnesstrackern Kontaktdaten von Ärzten und Personen, die im Notfall benachrichtigt werden sollen
+Ob Sie eine ePA nutzen möchten, entscheiden Sie selbst. 
+Natürlich können Sie die Nutzung jederzeit beenden. 
+Und: 
+Notfalldaten und Medikationsplan lassen sich auch ohne ePA auf der elektronischen Gesundheitskarte der Krankenkasse speichern.
+Wer eine ePA hat, kann die Inhalte jederzeit per Smartphone oder Tablet einsehen. 
+Außerdem können Sie entscheiden, welche Daten erfasst und gespeichert werden, was gelöscht wird, mit wem Sie die Daten teilen und wer wie lange Zugriff bekommt. 
+Sie können beispielsweise Ihrer Hausarztpraxis den generellen Zugriff auf die Akte einräumen, während Sie Ihrer Facharztpraxis nur einen Tag den Zugriff erlauben. 
+Die Krankenkasse kann Dokumente zwar einstellen, darf diese aber nicht lesen.
+Das Gesundheitsministerium verspricht ein "Höchstmaß an Schutz". 
+Die Patientenakten der Krankenversicherungen müssen festgelegte Sicherheitsvorgaben erfüllen, sonst bekommen sie keine Zulassung. 
+Heilberufler laden die Inhalte über einen geschützten Datentunnel hoch oder herunter.
+Versicherte wiederum bekommen den Zugriff auf die Patientenakte über eine App ihrer Krankenkasse, die sie auf das Smartphone oder Tablet herunterladen. 
+Um sich hier anzumelden, ist eine 2-Faktoren-Authentifizierung nötig. 
+Etwa durch ein registriertes Smartphone mit persönlichem Freischaltcode oder die Anmeldung in der App mit Benutzername und Passwort. 
+In Zeiten von Hackerangriffen befürchten Kritiker dennoch, dass es eine absolute Sicherheit wohl nicht geben wird.

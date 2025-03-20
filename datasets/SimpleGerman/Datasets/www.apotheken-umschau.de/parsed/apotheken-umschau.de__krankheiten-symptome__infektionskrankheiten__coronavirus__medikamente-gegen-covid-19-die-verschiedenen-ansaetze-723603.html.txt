@@ -1,0 +1,90 @@
+Die Forschungsarbeiten laufen weltweit auf Hochtouren, um Medikamente zur Behandlung einer Covid-19-Erkrankung zu finden. 
+Einige Arzneimittel sind bereits für einen entsprechenden Einsatz zugelassen. 
+Einen Überblick finden Sie hier .
+Es kommen auch viele Medikamente infrage, welche bereits bei anderen Erkrankungen im Einsatz sind. 
+Somit müssen die Forscher meist nicht bei null anfangen. 
+Tests für neue Medikamente sollten auch berücksichtigen, in welcher Phase sie am besten zum Einsatz kommen könnten.
+In der frühen und gegebenenfalls zweiten Phase der Infektion steht das Eindringen des Virus und die Virusvermehrung im Vordergrund, so dass zu diesem Zeitpunkt Medikamente infrage kommen, welche das Eindringen in die Zelle oder die Vermehrung des Virus reduzieren, wie beispielsweise Virustatika. 
+In der späten zweiten beziehungsweise dritten Phase, der sogenannten hyperinflammatorischen Phase, steht mehr die Entzündungs- und Immunreaktion des Körpers im Vordergrund, sodass hier entzündungshemmende Medikamente von größerer Bedeutung sein könnten. 
+Wirkstoffe, die gegen die von SARS-CoV-2 ausgelösten schädigenden Mechanismen helfen könnten, stellen eine weitere Gruppe von Therapiebausteinen dar.
+Entwickelt werden Medikamente aktuell in mehrere Richtungen:
+Antivirale Medikamente haben das Ziel, die Virusvermehrung zu unterbinden. 
+Dazu gibt es verschiedene Ansätze: 
+Entweder kann man versuchen, das Eindringen des Virus in die Wirtszelle zu stoppen, indem die Viren bereits zuvor abgefangen beziehungsweise die Bindungsstellen besetzt werden oder indem die Virenvermehrung in der Zelle blockiert wird.
+Hierzu laufen eine Vielzahl an Studien, einige Medikamente mit diesem Ansatz sind bereits zugelassen.
+Antivirale Antikörper/Nanobodies
+Ein großes Forschungsfeld bilden die antiviralen Antikörpern. 
+Diese werden über die Vene gegeben und können so gezielt an das Corona-Virus binden und dadurch das Andocken verhindern. 
+Es werden Antikörper von genesenen Covid-19-Patienten und Patientinnen als Vorbild genutzt, welche im Labor eine große Wirkung bei der Blockade des Virus gezeigt haben. 
+Diese Antikörper werden dann gentechnisch in großen Mengen mit Zellkulturen hergestellt. 
+Teilweise werden auch zwei Antikörper in einem Medikament kombiniert. 
+Mehrere solcher Präparate sind in der EU bereits zugelassen und im Einsatz.
+Einige Unternehmen prüfen auch sogenannte Nanobodies. 
+Diese kleineren Antikörper werden in Lamas oder Alpakas erzeugt und sind leichter herzustellen und zu lagern als menschliche Antikörper.
+Ansätze über ACE2/TMPRSS2
+Damit SARS-CoV-2-Viren in ihre Zielzellen der Atemwege eindrigen können, brauchen sie bestimmte Moleküle der Zelloberfläche um dort binden zu können. 
+Diese Moleküle der Zielzelle sind vor allem ACE2-Rezeptoren und TMPRSS2 (“Tempress two“). 
+Über das Verschmelzen der Zellmembranen kann das Virus so sein Erbmaterial in die Wirtszelle einschleusen und sich dort vermehren.
+Daher laufen mehrere Studien, in welchen freie, nicht verankerte ACE-2-Moleküle verabreicht werden, um die Bindungsstellen am Virus zu besetzen und das Andocken unmöglich machen.
+Auch Wirkstoffe, welche die TMPRSS2-Moleküle blockieren, sind in Erprobung. 
+Ein weiterer Ansatz ist, durch die Gabe von Antiandrogenen (welche bereits bei der Behandlung von Prostatakrebs zur Anwendung kommen) die körpereigene Bildung von TMPRSS2-Molekülen zu drosseln und somit weniger Andockmöglichkeiten für das Virus zu bieten.
+mRNA-Wirkstoffe
+Bei dieser Art von Medikamenten soll eine mRNA die genetische Information enthalten, die den Körper dazu anleitet, passende Antikörper gegen das Virus zu bilden. 
+Hierüber soll praktisch die Bauanleitung für die Antikörper an unseren Körper weitergegeben werden.
+Wirkstoffe, welche gezielt an das Virus binden
+Unter diese Gruppe fallen Wirkstoffe, welche gezielt an bestimmte Moleküle der Viruszelle binden, wodurch die Oberfläche des Virus verändert wird und ein andocken oder eindringen unmöglich gemacht werden soll.
+Damit Wirkstoffe in die Zielzelle eindringen und dort die Virusvermehrung unterbinden können, müssen sie relativ klein sein. 
+Viele dieser nun auch bei Covid-19 eingesetzten Wirkstoffe sind bereits gegen andere Viren entwickelt worden.
+Blockade des Virus-Enzyms RNA-Polymerase
+Sars-CoV-2 benötigt zu seiner Vervielfältigung des Erbmaterials ein Enzym, welches die Erbinformation abliest und eine Kopie herstellt. 
+Dieser Mechanismus läuft vielfach ab, so dass aus einem Virus weitere Viren gebildet werden können. 
+Diese Enzym heißt: 
+RNA abhängige RNA-Polymerase. 
+Von der EMA ist bereits ein Medikament zugelassen, das an diesem Enzym und seiner Arbeit ansetzt: 
+Remdesivir .
+Ein weiteres Medikament, welches ebenfalls die RNA-Polymerase hemmt ist Molnupiravir . 
+Dafür läuft ein Roling Review-Verfahren bei der Europäischen Arzneimittelargentur EMA. 
+Ein Roling Review ist ein beschleunigtes Zulassungsverfahren.
+Blockade anderer Enzyme
+Da SARS-CoV-2 bei den verschiedenen Stufen seiner Virusvermehrung weitere Enzyme benötigt, könnten sich hier ebenfall interessante Therapie-Ansatzpunkte finden, wie beispielsweise bei der Hauptprotease (auch 3CL-Protease genannt), der "Papain‐like Protease" (PLpro) oder der Helikase Nsp13.
+Ein weiterer Therapieansatz besteht bei dem Antidepressivum Fluoxetin. 
+Es bindet ebenfalls an bestimmte Enzyme - der „sauren Sphingomyelinase“ (ASM) sowie Sigma 1-Rezeptoren. 
+Dieses Molekül regelt eine Vielzahl an Prozessen, unter anderem führt es zu einer verminderten Produktion von Entzündungsstoffen (Zytonkinen), weshalb es bei der Therpie von Covid-19 von Bedeutung sein könnte. 
+Die Zytokin-vermittelte überschießende Entzündungsreaktion ist bei der späten Phase einer Covid-19 Erkrankung von Bedeutung.
+Ziel dieser Kategorie an Wirkstoffen ist es, die körpereigene Abwehr gegen die Viren zu stärken und somit eine effektivere Bekämpfung der Virenlast zu ermöglichen. 
+Bei der natürlichen Virenabwehr spielen unter anderem Interferone eine Rolle. 
+Die Interferone werden von körpereigenen Zellen gebildet. 
+Gentechnisch hergestellte Interferone werden nun auch in Studien als Therapieoption einer Covid-19 Erkrankung getestet.
+Ein Ansatz sind sogenannte Immunmodulatoren. 
+Da es bei schweren Verläufen einer Covid-19 Erkrankung bei einigen Patient:innen zu einer stark überschießenden Bildung von immunologischen Botenstoffen (Zytokine) kommen kann, ist die Idee hinter diesem Ansatz, eine überschießende Entzündungreaktion zu bremsen. 
+Denn der sogenannte Zytokinsturm kann so stark sein, dass dadurch das körpereigene Gewebe angegriffen wird.
+Entzündungshemmung durch Cortison-Präparate
+Ein von der EMA bereits zugelassenes Medikament in Deutschland ist Dexamethason.
+Verminderte Immunreaktion durch Blockade von Botenstoffen
+Unsere Zellen kommunizieren durch bestimmte Botenstoffe miteinander, wodurch eine Entzündungsreaktion wie eine Kaskade abläuft. 
+Hierzu zählt beispielsweise der Botenstoff Interleukin-6 (IL-6). 
+Aber auch andere Botenstoffe wie TNF-alpha oder GM-CSF spielen eine Rolle. 
+Derzeit laufen verschiedene Stuiden zu Medikamenten, die hier ansetzen und manche sind auch bereits zugelassen.
+Auch Arzneistoffe, welche das Enzym Januskinase blockieren (Januskinase-Inhibitoren, JAKI) sind in mehreren Studien in Erprobung. 
+Ziel ist es durch die Blockade der Januskinase die überschießende Entzündungreaktion zu vermeiden. 
+Aktuell werden die beiden Wirkstoffe Baricitinib und Tofacitinib in Studien angewendet.
+Veränderte Immunreaktion durch Beeinflussung körpereigener Abwehrzellen
+In Erprobung befinden sich auch Wirkstoffe, welche die Aktivierung körpereigenen T-Zellen verändert. 
+T-Zellen sind an unserer Immunabwehr beteiligt. 
+Sie können (je nach Typ) entweder körperfremde Zellen und Stukturen erkennen und diese abtöten (Killerzellen) oder weitere Zellen unter anderem zur Antikörperproduktion anregen (T-Helferzellen).
+Da eine Infektion mit Sars-CoV-2 zu einer erhöhten Blutgerinnsel-Bildung führt, werden blutgerinnungshemmende Medikamente bei im Krankenhaus befindlichen Patienten gegeben.
+Darüber hinaus wird daran geforscht, ob die blutgerinnungshemmenden Medikamente auch einen Einfluss auf das Virus und dessen Bindunsgmöglichkeiten haben könnten. 
+Neben den niedermolekularen Heparinen sind auch einige neuere Blutgerinnungshemmer (Antikoagulantien) in die Studien mit einbezogen.
+Der vierte Ansatz sind Medikamente , die aus der Behandlung bestimmter schwerer Lungenkrankheiten bekannt sind und die vor allem die Schädigung der Lunge verhindern sollen, zu der es auch bei einem schweren Verlauf der Coronavirus-Erkrankung kommen kann. 
+Ein Beispiel aus dieser Gruppe ist das Präparat Aviptadil, welches bereits eine Zulassung zur Behandlung bei einem akuten Lungenversagen (ARDS) und Sarkoidose besitzt, in Deutschland aber noch nicht auf dem Markt ist. 
+Ziel vieler Studien ist es, einerseits auf Präparate zu setzen, welche die lokalen Lungenschädigungen verhindern könnten, aber auch auf Präparate, welche den narbigen Umbauprozess der Lunge stoppen.
+Ein weiteres Medikament ist Ivermectin . 
+Dieses Medikament wird zur Behandlung von parasitäeren Erkrankungen und der Kräzte schon seit langem eingesetzt. 
+Hier ist die Datenlage aktuell aber teils widersprüchlich und noch ungenügend, so dass das Robert-Koch Institut den Einsatz nur im Rahmen von klinischen Studien empfiehlt.
+Long-Covid umfasst eine Reihe von verschiedensten Symptomen, welche sich nach einer durchgemachten Covid-19-Erkrankung manifestieren können. 
+Dabei scheint die Schwere der Erkrankung nicht für die Wahrscheinlichkeit des Auftretens von Bedeutung zu sein. 
+Häufige Symptome einer Long-Covid-Erkrankung sind Konzentrationsstörungen oder eine rasche Erschöpfbarkeit. 
+Zum jetzigen Zeitpunkt gibt es allerdings noch wenig Anhaltspunkte, warum Long-Covid bei manchen Betroffenen auftritt, weshalb auch hier noch weiter geforscht werden muss.
+Pharmafirmen weltweit testen bewährte und neue Wirkstoffe gegen Covid-19, wie der Verband Forschender Arzneimittelhersteller (VFA) mitteilt. 
+Eine ausführliche Auflistung über einen Teil der aktuell laufenden Studien findet sich auf der Seite der VFA: 
+Therapeutische Medikamente gegen die Coronavirusinfektion Covid-19 .

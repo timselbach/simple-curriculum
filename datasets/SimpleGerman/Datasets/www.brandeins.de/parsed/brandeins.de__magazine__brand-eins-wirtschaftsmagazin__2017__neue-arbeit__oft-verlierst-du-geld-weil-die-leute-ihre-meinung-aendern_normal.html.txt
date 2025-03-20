@@ -1,0 +1,12 @@
+Lyxor S&P 500 VIX Futures Enhanced Roll UCITS ETF – C-EUR („Fonds“). 
+(…) Ein Teilfonds der Investmentgesellschaft Multi Units Luxembourg („Gesellschaft“) mit Sitz in Luxemburg. 
+Verwaltet durch Lyxor International Asset Management („LIAM“).
+Anlageziel ist die Nachbildung der Entwicklung des S&P 500 VIX Futures Enhanced Roll Index (Bloomberg-Code: 
+SPVIXETR) („Benchmark-Index“), der eine Strategie auf die erwartete Volatilität des US-Aktienmarktes durch einen Korb an S&P500 VIX-Terminkontrakten abbildet, die an der CBOE notiert sind.
+Darüber hinaus müssen die Terminkontraktepositionen „rolliert“ werden, um das Engagement aufrechtzuerhalten: 
+Bei rollierenden Terminkontrakten werden Positionen, die sich ihrer Fälligkeit nähern (und in jedem Fall vor dem Ablauf der Terminkontrakte), auf Terminkontrakte mit einer längeren Laufzeit übertragen. 
+Anleger sind dem Risiko eines Verlustes oder Gewinns aus dem Rollieren der Terminkontrakte ausgesetzt.
+Der Nachbildungsfehler (Tracking Error) wird unter gewöhnlichen Marktbedingungen voraussichtlich bei 0,25 Prozent liegen.
+Der Fonds versucht, sein Anlageziel über eine indirekte Nachbildung zu realisieren, indem er eine Swapvereinbarung auf OTC-Märkten (Finanzderivat, das „FDI“) eingeht. 
+Der Fonds investiert darüber hinaus in ein diversifiziertes Portfolio internationaler Aktien, dessen Wertentwicklung mittels des FDI gegen die Wertentwicklung des Benchmark-Index ausgetauscht wird. 
+(…)
