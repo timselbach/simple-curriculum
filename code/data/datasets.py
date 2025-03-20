@@ -22,8 +22,8 @@ from torchtext.data.utils import get_tokenizer
 from torchtext.vocab import build_vocab_from_iterator
 
 
-from training.metrics import SentenceEvaluator
-from data.load_data import get_articles_with_level, read_articles, prep_text
+from code.training.metrics import SentenceEvaluator
+from code.data.load_data import get_articles_with_level, read_articles, prep_text
 
 os.environ['TOKENIZERS_PARALLELISM'] = 'true'
 

@@ -34,7 +34,6 @@ def main():
         torch.cuda.manual_seed_all(seed)
     set_seed(seed)  # from transformers
 
-    sys.path.append('/home/iailab34/selbacht0/Sync')
 
 
     hyperparams = get_current_training_params(TRAINING_STRATEGY)
@@ -47,7 +46,7 @@ def main():
 
     # Ensure the directories exist
     os.makedirs(model_path,exist_ok=True)
-    os.makedirs(tokenizer_path,exist_ok=True)
+    
 
     print(f"Model will be saved to: {model_path}")
     print(f"Tokenizer will be saved to: {tokenizer_path}")
