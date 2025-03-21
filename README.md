@@ -71,3 +71,32 @@ We provide a script that lets you evaluate the models' performance on the differ
 
 ## Tools/Libraries
 All packages that are used for this project can be found in the ```requirements.txt```.
+
+## References
+This code uses following datasets for its training and test cases:
+- Simple German Corpus: Vanessa Toborek et al. “A New Aligned Simple German Corpus.” In: Proceedings of
+the 61st Annual Meeting of the Association for Computational Linguistics. Association
+for Computational Linguistics, 2023, pp. 11393–11412.
+
+- Simple Wikipedia: William Coster and David Kauchak. “Simple English Wikipedia: A New Text Simplification Task.” In: The 49th Annual Meeting of the Association for Computational
+Linguistics: Human Language Technologies. The Association for Computer Linguistics, 2011, pp. 665–669.
+
+- IMDB: Andrew L. Maas et al. “Learning Word Vectors for Sentiment Analysis.” In: The
+49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies. Association for Computer Linguistics, 2011, pp. 142–150.
+
+- XNLI for German: Alexis Conneau et al. “XNLI: Evaluating Cross-lingual Sentence Representations.”
+In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2018, pp. 2475–2485.
+
+- WordSim-353: Lev Finkelstein et al. “Placing search in context: the concept revisited.” In: Proceedings of the Tenth International World Wide Web Conference. ACM, 2001, pp. 406–
+414.
+
+- Schm280: Maximilian Köper, Christian Scheible, and Sabine Schulte im Walde. “Multilingual Reliability and ”Semantic” Structure of Continuous Word Spaces.” In: Proceedings of the 11th International Conference on Computational Semantics. Association
+for Computer Linguistics, 2015, pp. 40–45.
+
+Additional datasets for further investigations:
+
+- Anna Gladkova, Aleksandr Drozd, and Satoshi Matsuoka. “Analogy-based detection of morphological and semantic relations with word embeddings: what
+works and what doesn’t.” In: The 2016 Conference of the North American Chapter of
+the Association for Computational Linguistics: Human Language Technologies. Association for Computational Linguistics, 2016, pp. 8–15.
+
+- Sowmya Vajjala and Ivana Lucic. “OneStopEnglish corpus: A new corpus for automatic readability assessment and text simplification.” In: Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications@NAACL-HLT 2018. Association for Computational Linguistics, 2018, pp. 297–304.
