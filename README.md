@@ -1,10 +1,10 @@
-# Curriculum Learning with Simple Language for Transformer-Based Language Models
+# Curriculum Learning With Simple Language for Transformer-Based Language Models
 
-This repository contains the code to run a variety of curriculum learning approaches on two simple language datasets.
+This repository contains the code of my bachelor's thesis, which focuses on curriculum learning for transformer-based language models. The code includes the test cases for a variety of curriculum learning approaches on two simple language datasets.
 
 ## About
 
-Curriculum learning has successfully been applied to different machine learning areas. However, there have been some controversial results regarding language curriculum learning. To see whether simple language datasets help to create a curriculum and to learn more about the properties that need to be fulfilled to apply curriculum learning successfully.
+Curriculum learning has successfully been applied to different machine learning areas. However, there have been some controversial results regarding language curriculum learning. With our experiments we want to see whether simple language datasets help to create a curriculum learning strategy.
 
 ## Installation
 
