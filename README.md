@@ -87,8 +87,7 @@ Linguistics: Human Language Technologies. The Association for Computer Linguisti
 - XNLI for German: Alexis Conneau et al. “XNLI: Evaluating Cross-lingual Sentence Representations.”
 In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2018, pp. 2475–2485.
 
-- WordSim-353: Lev Finkelstein et al. “Placing search in context: the concept revisited.” In: Proceedings of the Tenth International World Wide Web Conference. ACM, 2001, pp. 406–
-414.
+- WordSim-353: Lev Finkelstein et al. “Placing search in context: the concept revisited.” In: Proceedings of the Tenth International World Wide Web Conference. ACM, 2001, pp. 406–414.
 
 - Schm280: Maximilian Köper, Christian Scheible, and Sabine Schulte im Walde. “Multilingual Reliability and ”Semantic” Structure of Continuous Word Spaces.” In: Proceedings of the 11th International Conference on Computational Semantics. Association
 for Computer Linguistics, 2015, pp. 40–45.
