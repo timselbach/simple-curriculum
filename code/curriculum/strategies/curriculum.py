@@ -2,7 +2,7 @@
 
 from code.curriculum.config import TRAINING_STRATEGY
 from code.curriculum.strategies.base import TrainingStrategy
-from code.curriculum.training.two_phase_training import train_phase_curriculum
+from code.curriculum.training.two_phase_training import train_phase_competence
 
 
 class CompetenceTraining(TrainingStrategy):
@@ -45,7 +45,7 @@ class CompetenceTraining(TrainingStrategy):
 
 
         # Execute the training phase using the combined dataset
-        train_phase_curriculum(
+        train_phase_competence(
             model=model,
             device=device,
             tokenizer=tokenizer,

@@ -17,3 +17,4 @@ transformers==4.46.3
 requests==2.31
 pandas==1.4.3
 scipy==1.8.1
+datasets==2.19.1

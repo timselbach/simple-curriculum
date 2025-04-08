@@ -1,6 +1,6 @@
 import numpy as np
 from torch.utils import data
-from data.all_datasets import SimpleWikiDataset, SimpleGermanDataset
+from code.data.all_datasets import SimpleWikiDataset, SimpleGermanDataset
 from torch.utils.data import DataLoader
 
 

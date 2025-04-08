@@ -1,7 +1,7 @@
 import sys
 sys.path.append(".")
 import argparse
-from data.all_datasets import SimpleWikiDataset, OSEDataset
+from code.data.all_datasets import SimpleWikiDataset, OSEDataset
 
 # parser = argparse.ArgumentParser()
 # parser.add_argument('dataset', type=str, help="use either SimpleWiki or OSE to create the respective dataset")
